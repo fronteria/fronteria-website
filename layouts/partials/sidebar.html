@@ -1,0 +1,44 @@
+<aside class="sidebar-aside w-30-l ph4-l mt4 mt0-l br b--light-gray">
+  <div class="sidebar-container bg-white-90 pa4 br3 shadow-4">
+    <h3 class="f4 b mb3 dark-blue border-bottom-thick">Enlaces Populares</h3>
+    <ul class="list pl0">
+      {{ range hugo.Data.links.links }}
+      <li class="mb{{ if eq .type " button" }}4{{ else }}3{{ end }}">
+        {{ if eq .type "button" }}
+        <a href="{{ .url }}" class="link db pa3 br3 white bg-blue hover-bg-dark-blue tc b f5 shadow-2 transition-all">
+          <span class="db mb2">{{ .title }}</span>
+          <span class="f6 normal">{{ .subtitle }}</span>
+        </a>
+        {{ else }}
+        <a href="{{ .url }}" class="link db pv2 dark-gray hover-blue f5 flex items-center">
+          <span class="mr2">{{ .icon }}</span> {{ .title }}
+        </a>
+        {{ end }}
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</aside>
+
+<style>
+  .border-bottom-thick {
+    border-bottom: 3px solid #00449e;
+    display: inline-block;
+    padding-bottom: 5px;
+  }
+
+  .transition-all {
+    transition: all 0.3s ease;
+  }
+
+  .transition-all:hover {
+    transform: translateY(-2px);
+  }
+
+  .sidebar-container {
+    border: 1px solid #eee;
+  }
+
+  /* Optional: Hide sidebar-aside when included via shortcode inside main flow if needed */
+  /* But for now, we keep the original layout consistency */
+</style>

@@ -1,0 +1,362 @@
+EcuapassBot: Menos tiempo, más seguridad!
+Wed, Oct 29, 2025
+
+2:41 - Omar Caicedo Ortiz
+Muy buenos días con todos. Es la hora de comentar la... Pero no sé si de pronto esperamos unos minutitos más a ver si se rompió el tema personal. ¿Usted?
+
+4:09 - Unidentified Speaker
+Qué buen día, Omar, ¿o no?
+
+4:40 - Luis Garreta
+¿Si me escuchas? Un saludo.
+
+5:38 - Luis Garreta
+hola hola Buen día. Buen día, mucho gusto. ¿Si me escucha?
+
+6:03 - HARRISON VIZCAINO
+¿Cómo está?
+
+6:05 - Luis Garreta
+Sí, sí, yo lo escucho. ¿Cómo está?
+
+6:11 - HARRISON VIZCAINO
+Buen día.
+
+6:12 - Luis Garreta
+Muy bien, gracias. Omar, no te escuchamos. No te escuchamos Omar no, no te escuchamos Bueno, espéramolo un minuto y si no arrancamos, ¿listo? Sí, también déjeme que se conecte mi persona de sistemas por aquí.
+
+7:04 - HARRISON VIZCAINO
+en este chau.
+
+7:46 - HARRISON VIZCAINO
+Si. Si. ¿Qué oye? Sí, sí, no, no sé qué pasa, no sé, yo pensé que, o sea, Yo no veo nada de que sea mucha mala.
+
+8:47 - HARRISON VIZCAINO
+¡Gracias!
+
+9:11 - Luis Garreta
+Subtítulos realizados por la comunidad de Amara.org Buenos días señor Vizcaíno, nuestro compañero Omar pues está con problemas técnicos, no sé si empezamos o esperamos.
+
+9:54 - Unidentified Speaker
+Empecemos.
+
+9:55 - Luis Garreta
+Bueno, le voy a hacer una presentación muy corta y después hablamos sobre el tema. De acuerdo.
+
+10:35 - Unidentified Speaker
+Avancemos, Luis.
+
+10:43 - Luis Garreta
+Ya se conecta también, Andres.
+
+11:06 - Luis Garreta
+Ya les comparto la pantalla un momento. Listo, ahí están viendo la presentación. Listo. Bueno, buenos días a todos. Mi nombre es Luis Garreta. Yo soy el director de esta empresa. Soy especialista en computación y mi compañero, el ingeniero Omar, está al otro lado. Entonces él, bueno, tiene problemas técnicos, pero él los contactó. Pues sí. Muchas gracias por atender esta reunión ya. Nuestra empresa se llama Frontería Software y es una empresa especializada en de soluciones soportadas con inteligencia artificial, entonces nosotros hemos creado para el sector de comercio exterior dos soluciones, una es para crear documentos de exportación tipo manifiestos, cartaportes, pero esa no la vamos a tocar porque muchas de las herramientas, muchas de las empresas ya tienen esa herramienta y la otra herramienta la que vamos a mostrar hoy que se llama Equapass Bot, que es una herramienta de automatización inteligente de documentos, que permite básicamente transmitir las cartas de porte y los manifiestos de forma automática al sistema Equapass. Entonces, como ustedes conocen mejor el proceso de todo el flujo de exportación, hay una parte que que está aquí remarcada en azul, que es la creación de documentos donde ustedes deben tener una herramienta ya o su sistema de la empresa para crear los manifiestos y las cartas de porte y las declaraciones de tránsito. Y dentro de este proceso después sigue el que transmitirlos al sistema de Coapaz. Entonces nosotros nos vamos a enfocar en este segundo proceso transmisión ya en la transmisión pues se cogen los los documentos en pdf del manifiesto carta de porte declaración y se los transmite al sistema de cuapazo se los digita ya esto es más o Menos un formato en pdf digamos es más o Menos estándar con todas esas casillas y se lo debe transmitir de una forma mucho más detallada al sistema de CUAPAS, donde hay muchos campos muy específicos y donde no se puede uno equivocar porque eso conlleva multas. Entonces esto normalmente se hace de forma manual, esto toma entre 10 y 20 minutos dependiendo de la experticia del operario o de la persona que haga esta digitación. Puede traer puede haber un porcentaje de errores y la otra forma, la que nosotros proponemos con nuestra herramienta es una forma automática que se demora más o Menos entre 40 y 50 segundos y el porcentaje de errores es mínimo, digamos el 0% y la transmisión se hace digamos al sistema ECUAPAS directamente, Para una empresa que ya lo está utilizando, aquí vamos a mostrar unos datos con 3365 documentos, que lo hizo aproximadamente en unos seis meses, el tiempo que ellos se demoran es mínimo, si la persona es muy puede demorarse entre 500 a 60 horas que es este cuadro rojo que se ve aquí en la parte izquierda o se puede demorar de 15 de 10 o 15 a 20 minutos el tiempo de 1682 horas ya entonces estos son los promedios de tiempos que puede tomar una persona que le pudo tomar a una persona digital esos documentos. Nuestra herramienta le tomó digitar esos documentos, porque la empresa ya lo está usando, le tomó 46 horas. Entonces, si esto lo trasladamos a costos, esto puede, de la forma manual, puede haber unos costos de 1491 dólares o en el peor de los casos, cuando se demore de 10 a 20 puede haber un costo de más de 4.000 dólares. Nuestro sistema, en ese número de documentos, sólo gastó, digamos, en tiempo hora de cada persona, se gastó sólo 123 dólares. Entonces, el ahorro de tiempo y el ahorro de costo es muy, muy alto. Todas las empresas que tienen nuestro software, estos datos de tiempo y dinero son constantes, esto se aplica a cualquier empresa y si tienen y si maneja más documentos pues los ahorros son más grandes, entonces aquí les voy a mostrar cómo funciona nuestra herramienta de forma rápida, se selecciona el que es la carta de porte en este caso, se le da a procesar nuestra herramienta de forma inteligente, extrae todos los datos que necesita el EQAPAS en lo que hemos llamado aquí un prechequeador, o sea, antes de llegar al EQAPAS, muestra los posibles errores que haya, se los resalta y aquí se hace la transmisión automática, o sea, aquí ya el software está transmitiendo directamente los datos al Equapass, esa es la velocidad real que hace la transmisión, más o Menos dura unos 40, 50 segundos, y el software no envía estos datos al Equapass, sino que se lo deja digitado en el sistema Equapass para que el usuario haga la transmisión final, entonces el tiene la oportunidad de verificar si todos los datos que están ahí corresponden a lo que él va a enviar y después de que haga esta verificación, que ya es muy corta, ya le demoró unos 10-15 segundos, el usuario lo envía, o sea, aquí ya lo transmitió, ya lo digitó a Lequapass y el usuario ya puede enviarlo. O puede darle una revisión y finalmente lo envía. Este proceso, como les decía, toma entre 40 y 50 segundos y es digamos 100% seguro. Para un manifiesto es algo muy parecido. Se selecciona el manifiesto de donde los tengan ubicados, el archivo PDF. Se le da a procesar, el sistema muestra algunas precauciones de posibles errores o datos incompletos que la persona los puede llenar o completar y se le da a transmitir. Entonces empieza el software a transmitir en el sistema de Coapas, en este caso en la parte de manifiestos, a transmitir todos los datos que están allá, que ha extraído de el documento original y ha creado los datos necesarios para el sistema Aequapaz, los empieza a transmitir ya la ciudad, el país, el tipo de carga, la aduana de cruce, la aduana de destino, la adición allá, además también busca la carta porte asociada y de una vez la coloca, en este caso en el manifiesto, ya no lo encontró, pero eso lo hace de forma automática, como les decía, entre 40 y 50 segundos. Y esto es, digamos, esto es lo que hace nuestro software, estas son las optimizaciones que hace en este proceso y los costos y los ahorros que se logran. Entonces… Una consultica.
+
+20:26 - HARRISON VIZCAINO
+Aquí está también con nosotros MANUEL, que es nuestra persona especialista, digamos, de la frontera, que es el encargado de realizar las operaciones en Ecuapaz. MANUEL, ¿cuál es que usted tiene con Ecuapaz para poder elaborar sus tareas diarias. Sí, buenos días, ¿cómo están?
+
+21:02 - MANUEL CASTRO
+Don Luis, no sé si me recuerda, hicimos unos ensayos, nosotros subimos unas cartaportes, unos manifiestos y pues no es totalmente seguro también porque el sistema sí sube como se verifica ahí toda la información del sistema EQUAPAS. Igualmente toca revisar nuevamente toda la información que esté totalmente diligenciada, porque pues sí, a veces el EQUAPAS se come una coma o un punto y pues varían los valores. Igualmente cuando, por ejemplo, cuando son caracteres que el EQUAPAS no los también vota errores y también toca verificarlo manualmente, y igual no lo deja pasar para firmar en los sistemas. Esos han sido como, por lo general, los errores más... ¿Usted conoce el proceso? ¿Conoce este cuoto?
+
+22:07 - Luis Garreta
+Perdón, nosotros, sí, hace más de un año, yo creo que ya van a ser dos años que que estuvimos por esas oficinas mostrando el software, pues ya las versiones de nuestro sistema ya han cambiado y ya es un software totalmente estable. Lo que dice de esos errores de que los valores a veces vienen originalmente con puntos y comas y el EQAPAS lo recibe de otra forma, entonces ese punto lo interpreta en vez de ciento, lo interpreta como miles, y eso pues es un error muy, muy grave. El otro error de los caracteres, si a veces el documento tiene puntos, comas o caracteres invisibles que el sistema Equapath no los recibe y ahí es un problema porque uno no sabe cuál es el error y por qué eso toca volver a generar. Bueno, esos errores nuestro software ya los corrige en el documento. De la empresa ya, o sea, nuestro software ya está habilitado para para coger esos valores y trasladarlos lo más fiel posible al valor real, es decir, podríamos decir que nuestro software le corrige al usuario ese posible error y le evita que envíe un número erróneo, ya, él le chequea el número, chequea las sumas verifica si ese valor corresponde a un valor real de una mercancía y si no corresponde le pone en amarillo o en rojo esa casilla para que él lo verifique y cambia el valor que es. La verificación de caracteres el software lo hace internamente, sencillamente si hay éñes o tildes o caracteres que no son aceptados, él los cambia, los que aceptado si se transmite el documento. Al final, nuestro software, como les decía, se demora más o Menos 40, 50 segundos en transmitir, pero la última verificación la hace el usuario, que ahí es lo importante, el usuario verifica si lo que está ahí corresponde a lo que va a transmitir y generalmente el usuario en su experticia no se demora ni cinco segundos, porque él ya sabe qué información es la correcta, qué valores están bien. Al echarle, digamos, una ojeada o al revisarlo, él ya detecta dónde está el valor mal, lo corrige y lo transmite. MANUEL, una consulta.
+
+24:54 - HARRISON VIZCAINO
+¿Usted cuánto se demora manualmente en hacer este proceso?
+
+24:58 - MANUEL CASTRO
+Digitar más o Menos, o sea, en digitar y en revisar. Son 10 minutos más o Menos por cada documento. Lo que más demora es la revisión. Manifiestos, cartas de aportes.
+
+25:15 - HARRISON VIZCAINO
+Por ejemplo, hagamos un ejercicio de, no sé, Mavesa. Salen 5 camiones, sale una carta de aportes, 5 manifiestos. ¿Cuánto demora usted en eso?
+
+25:29 - MANUEL CASTRO
+Son 5, son 10. 5, 10, 20, 30, más o Menos una media horita con cartaporte y los 5 manifiestos. Ya, y ese es lo que le bota el MRN, ¿cierto?
+
+25:45 - HARRISON VIZCAINO
+Sí, ese es lo que me genera MRN.
+
+25:48 - MANUEL CASTRO
+El MRN es el ingreso de todos los documentos.
+
+25:52 - HARRISON VIZCAINO
+Y, Ingeniero Luis, según su sistema, ¿esa media hora la podría bajar yo a, no sé, dos minutos?
+
+26:01 - Luis Garreta
+Póngale 50 segundos por documento más 10 segundos de revisión.
+
+26:06 - MANUEL CASTRO
+Claro, pero la revisión si tocaría 100%, o sea, casilla por casilla.
+
+26:13 - Luis Garreta
+No, no, porque si la hace 100%, pero como ya está digitado, usted no va a digitar nada, sino solamente va a revisar la casilla por casilla. Tiene que mirarla. El último punto.
+
+26:30 - HARRISON VIZCAINO
+Siempre tiene que revisar, así te haga el sistema algo. Claro, así es.
+
+26:37 - Luis Garreta
+Una anotación de ahí, ¿no? Ese tiempo, pues ya hemos medido esos tiempos en otras empresas ya, esos tiempos de digitación es de una persona experta y generalmente sin distracciones, que es lo difícil en esas labores que ellos tienen, porque ellos tienen que estar haciendo no sólo una cosa sino muchas al tiempo, entonces les llega una persona a preguntarles de una carga, ellos paran el proceso, lo vuelven a retomar, llega otro cliente y en ese proceso es que los 10 minutos se pueden convertir 15 o 20 o más tiempo, y además la distracción lo hace perder el foco y los errores se pueden incrementar. De acuerdo.
+
+27:27 - HARRISON VIZCAINO
+Luis, usted comentaba que también hacían manifiestos y cartas deportes y DTIs. Sí, tenemos un software que hace eso de forma inteligente.
+
+27:36 - Luis Garreta
+No les puedo mostrar ahorita, pero lo que hace el software es que le predice lo que va a escribir, o sea, le escribe el software. Le escribe, por ejemplo, un manifiesto con solo poner que va a Nestlé o al opina, nuestro software ya le escribe quién es el destinatario, ya le escribe quién es el consignatario, ya le predice a qué ciudad va, por dónde va a pasar, qué aduanas va a tener y qué tipo de carga más o Menos va a llevar, o sea, este software es... Pues no lo mostramos porque me habían dicho que sólo era mostrar este software, ¿ya?
+
+28:14 - HARRISON VIZCAINO
+No, no, sí nos interesa porque pues nuestro software hace, digamos, pero lo hace manual, o sea, tienen que digitar y luego ya imprimimos la carta de porte, manifiesto y DTIs. Lo que yo estoy buscando en todos los procesos de la compañía es justamente herramientas de inteligencia artificial para liberar de tiempo a mi gente.
+
+28:35 - Luis Garreta
+Sí, en eso nos especializamos nosotros.
+
+28:38 - HARRISON VIZCAINO
+Eso es lo que estoy buscando. Yo tengo un software que habría que ver cómo se integra a esta parte de inteligencia artificial y lograr eficiencias. Ahora habría que hacer un piloto. Andres está aquí, que es nuestro ingeniero de sistemas. En Quito tengo a ELIZABETH, que es mi ingeniera de sistemas. Estamos en Ecuador y en Colombia. Habría que hacer unos pilotos y validar que evidentemente la herramienta funcione. ¿Cómo es el tema de la inversión con ustedes en el caso de que esto funcionara?
+
+29:13 - Luis Garreta
+En el caso de de este CoaPassBot, nuestro software vale aproximadamente $1,300 dólares por país. Es decir, si hacen transacciones en Ecuador, es una licencia. Si es Colombia, es otra licencia. Y si es Perú, es otra licencia. Bueno, y tenemos Venezuela, pero Venezuela es otro proyecto que estamos...
+
+29:37 - HARRISON VIZCAINO
+No, pero usamos una sola razón social para todos los documentos internacionales.
+
+29:46 - HARRISON VIZCAINO
+Yo no tengo habilitadas las 3 razones sociales. Sería inoperativo, porque la flota tiene que estar habilitada para poder hacer transporte. Hay una sola razón social. Toda la flota la tenemos ingresada a nuestra razón social del Ecuador.
+
+30:02 - Luis Garreta
+¿Pero manejan desde Ecuador, desde allá también? Todo lo que es.
+
+30:06 - HARRISON VIZCAINO
+Nuestro software es un software web. En consecuencia, se asignan usuarios y los usuarios de Colombia, del Ecuador y de Perú el software y en el módulo internacional de nuestro sistema de ecuador se generan todas las operaciones internacionales, las nacionales y va en cada país.
+
+30:28 - Luis Garreta
+Este software, este que les acabé de mostrar, se instala en cada equipo del usuario, este no es un software web, se instala en los equipos de las que hacen la transmisión, ¿ya? Entonces, este se instala, por ejemplo, si tienen operación en Ecuador, se instala a los del Ecuador. Si tienen operación acá en Colombia, se instala a los de Colombia. Y si tienen en Perú, pues se instala a los del Perú, ¿ya? Entonces...
+
+31:00 - HARRISON VIZCAINO
+Pero ahí sí, ahí sí, le doy una pregunta, Andres, usted que se eligió sistemas. ¿Cómo sería si nuestro sistema es web? ¿Cómo se hace una integración con una aplicación que sea solamente para una máquina? Andres.
+
+31:17 - HARRISON VIZCAINO
+¿Andres nos copia?
+
+31:18 - Luis Garreta
+Pues no sé, a nosotros ya lo hemos manejado esto con otras empresas y lo que nosotros hacemos es, les instalamos en el equipo de la persona que hace la digitación de los documentos el software, ya, entonces no hay ningún problema, él está en Quito, está en Perú, se lo instalamos allá. Es que nosotros generamos...
+
+31:46 - HARRISON VIZCAINO
+Esa es la funda, digamos, de nuestro software web. Yo tengo oficinas, por ejemplo, en Ecuador tenemos oficinas en Quito, Tucán, Guayaquil, en Pueblo, en Quevedo, en Boaquillas, en Lago Agrio. Todas oficinas tenemos. En Colombia igual. Yo tengo Ipiales, Cali, Medellín, Nevarranquilla, Bogotá. Y al ser software web no tengo ningún problema. Si yo tengo que instalar en cambio el software web, ustedes en cada oficina Posiblemente si me genera alguna dificultad. Pues no sé Andres, si me está copiando, porque no le copio a Andres, si nos puede aclarar esta inquietud de cómo funcionaría con nuestro sistema haciendo web. ¿Andres Campuzano? Sí, sí, ahí lo escuchamos.
+
+32:32 - Andres Campuzano
+Bueno, esa es una de mis preguntas precisamente, porque como lo dice don HARRISON, es un software web. Pues nosotros estamos hablando ahorita de que la mayoría de las conexiones que hacemos con otras compañías de software son web service, precisamente para poder continuar con nuestro proceso en el software y que la transmisión de datos sea de forma automática. Según lo que les entiendo, ahorita el software que ustedes manejan, instalándolo en las máquinas, lo que requiere es que se abran unos archivos, PDFs o XMLs de esos documentos que se van a transmitir para que los pueda leer su software, ¿es correcto?
+
+33:16 - Luis Garreta
+Sí, nuestro software toma los archivos PDF que genera el software de creación de documentos que ustedes tengan actualmente, ¿ya? Este es, pues digamos, el EcuapassBot, que es el software para transmitir. Toma los archivos PDF, de ahí extrae la información ¿Se puede hacer también una conexión a su sistema web para que los extraiga directamente de la web? ¿Se puede hacer una conexión que podría ser por un webservice o directamente desde la web que accede al usuario se podrían extraer?
+
+33:54 - HARRISON VIZCAINO
+Sí, nos interesaría el webservice.
+
+33:57 - Andres Campuzano
+¿Se enviarían directamente a la máquina donde está instalada? Al lado del software?
+
+34:03 - Luis Garreta
+Sí, sí, sí. O sea, el software se instala en la máquina del usuario y él lo puede leer desde el PDF que normalmente lo descargan porque lo tienen que imprimir, lo tienen que dar una copia, no sé, al transportista.
+
+34:23 - Andres Campuzano
+Él extrae perfectamente del PDF o se puede hacer la conexión para que lo extraiga desde la web de la empresa sería mucho más más fiable porque digamos que normalmente nuestras máquinas pues el imprimir o el descargar si yo puedo imprimir desde la web pues no lo descargo y lo guardo posiblemente el documento no lo vayamos a tener en la máquina físico mientras que si lo hacemos por conexión pues simplemente va a ir a buscar la información y va a ser pues todo el tiempo conectado digamos, eso se puede hacer, como le digo, nos habilitan un web service o algo así y nosotros extraemos la información de allá y si o si no la podemos extraer desde
+
+35:09 - Luis Garreta
+el sitio al que accede al usuario, podemos crear un robot para que extraiga esa información del sitio si la información está ahí.
+
+35:18 - Andres Campuzano
+Vale, y en ese orden de ideas, esa modificación al proceso de genera algún costo adicional a la licencia?
+
+35:26 - Luis Garreta
+No, solo necesitaríamos la colaboración de los de sistemas para que nos habiliten el web service o alguna cosa de esas. Y por última pregunta, ¿el instalarla en las máquinas me genera algún costo adicional?
+
+35:41 - Andres Campuzano
+Es decir, yo tengo una licencia y necesito instalarla hoy en dos máquinas y hacer una preparación adicional mañana. ¿Es que tiene un costo adicional? O adentro de la licencia.
+
+35:53 - Luis Garreta
+Cada licencia viene con dos instalaciones para dos usuarios, ¿ya? Pues se puede hablar, se puede negociar.
+
+36:00 - HARRISON VIZCAINO
+Es muy poquito, claro. Como le digo, nuestra operación es hacer web. La ventaja de nuestro web es que yo tengo en todas las oficinas, todo el mundo puede despachar. Yo no puedo tener una persona, por ejemplo, en IPAles haciendo exportaciones y supongamos que Ese día estemos despachando de Medellín, de Cali, de Barranquilla, y nuestra gente allá puede estar con tiempo libre para hacer este proceso. O sea, yo puedo dedicar al DPR a hacer otras actividades, no necesariamente estar haciendo cartas de porte y manifiestos. Entonces, yo sí quisiera que veamos una propuesta que nos permita seguir manejándonos como nos manejamos vía web service. Sin limitaciones en las diferentes oficinas que tenemos. Y si funciona como usted dice, pues nosotros sí estaríamos interesados visualizando los dos bots. El uno que es la elaboración de los documentos y que yo le diría inclusive a Andres me interesaría que incluso deberíamos verificar la forma de hacer si es que funciona como ellos nos indican a través de una comunicación con un bot. Lo que hablábamos ayer, tratar de hacer manifiestos nacionales también, y remesas nacionales, o sea, no sé si podamos tener ese alcance. Entiendo que la especialización de ustedes es la creación de bots para automatización de procesos, ¿cierto?, con inteligencia artificial.
+
+37:28 - Luis Garreta
+Sí, ese es un área. Exacto.
+
+37:30 - HARRISON VIZCAINO
+Entonces, eso es lo que nosotros quisiéramos. El software que tenemos ahorita, que es un ERP en la nube, quisiéramos meterle inteligencia artificial para que las personas no tengan que estar haciendo procesos manuales. Se perdió la comunicación. Si usted se conecta con ellos y con ELIZABETH y empezamos a hacer un piloto y visualizamos con un piloto cómo funciona la herramienta, están en Quito?
+
+38:11 - Luis Garreta
+Estamos en Ipiales, estamos en las fronteras, en las fronteras, pero ahorita estamos en la frontera Ecuador-Colombia.
+
+38:20 - HARRISON VIZCAINO
+Entonces no sé si Andres, pudiéramos ser un piloto en Ipiales, en las oficinas nuestras de Ipiales, avanzar con ese piloto y una vez que funcione el piloto posiblemente integrar a Ecuador, porque ellos también tienen que usar Y le hago una pregunta adicional. ¿Por qué lo hicieron solamente con Equapaz?
+
+38:45 - Luis Garreta
+¿Qué pasa con el Muisca y con el siglo XXI? El siglo XXI, sinceramente, el siglo XXI no lo hemos oído.
+
+38:55 - HARRISON VIZCAINO
+¿De qué país es el siglo XXI?
+
+38:58 - Andres Campuzano
+De Gladián, de Colombia.
+
+39:00 - HARRISON VIZCAINO
+Gladián usa el Muisca para exportaciones y el siglo XXI para importaciones.
+
+39:06 - Luis Garreta
+no nos hemos metido muy a fondo porque estábamos en este y pues nosotros estamos abiertos a todas las automatizaciones posibles ya, o sea ese es nuestro nuestro punto ahora nuestro foco es toda la parte de importaciones como les decía está este software que se llama Passbot y también tenemos el otro software que es el de creación de documentos que ese sí es que ese sí es en la web ya, ese digamos son los dos productos y tenemos uno que estamos haciendo para Venezuela pero estos digamos si hay un grado de automatización muy alto que se puede hacer ahí y la mejora es muy grande nosotros podríamos estar hablando para para hacer un o hacer digamos resolver ese problema tienen un problema con documentos en esos dos sistemas, ¿ya? O sea, podríamos empezar a hablar y nosotros le creamos un software para alguno de esos sistemas que... Una aplicación sería, ¿no? Porque el software ya está.
+
+40:19 - HARRISON VIZCAINO
+Una aplicación para que sea automatizado.
+
+40:21 - Luis Garreta
+Sí, sí, una aplicación para automatizar esos procesos, ya que esa es, digamos, nuestra especialidad, ¿ya?
+
+40:30 - Unidentified Speaker
+Correcto.
+
+40:30 - HARRISON VIZCAINO
+DTI también hace? Sí, también hace DTI. Entonces, Andres, yo lo que diría es hagamos un piloto, pues están en Ipiales. Andres Campuzano es nuestro ingeniero de sistemas. Él está en Bogotá, pero evidentemente lo puede monitorear desde acá, no hay problema. Y sería el líder de este proyecto. Hagamos unos pilotos y si los pilotos funcionan, verificamos efectivamente que funcione y ahí si hablaríamos de la propuesta de ustedes, sobre el alcance de la propuesta y nos sentamos a negociar. Me interesa sobre de manera, como le digo, es el interés de nuestra empresa automatizar la mayor cantidad de procesos que podamos.
+
+41:21 - Luis Garreta
+Pues yo le digo, este software apenas se se muestra a las personas que son las que deciden o las que están metidas en el proceso, la utilidad es inmediata, o sea, ya hay varias empresas que lo tienen, las empresas grandes ya, lo tienen y... ¿Quién lo está haciendo, por ejemplo? TSP, Sánchez Polo, Altía, ella lleva más de un año, ¿Y con ALDEA hizo webservice o solamente lo de conectar a una máquina? No, con ALDEA ellos está instalado aquí en las oficinas de IPL, las oficinas de Turcán y las oficinas del Perú ya y la optimización de los procesos es grandísima, no hay digamos como pierde o no hay no hay como que... Es muy evidente y muy medible lo que se gana, ya. Otras empresas, Visa acá en Colombia, otras Comerinter, ¿cuáles son otras? Bueno, esas son las grandes, y otras que son las pequeñas, ya, los Gitrans, y otras que no tienen...
+
+42:48 - HARRISON VIZCAINO
+De acuerdo. Entonces, avancemos con el piloto, avancemos con el piloto. Andres, no sé si se comparten los datos por ahí, por los teléfonos, los correos, por ahí por el chat ahorita. Quedan en contacto. ¿Quién sería el líder de parte de ustedes, Luis o Marro? ¿Luis con quién o con los dos? Con los dos.
+
+43:11 - Luis Garreta
+O sea, Omar es el que hace toda la parte de gestión, yo soy el que hace la parte técnica y tenemos otras personas que nos ayudan ya en la parte de programación y cosas también técnicas, pero entre los dos somos los que manejamos todo esto. Les iba a mostrar el otro software para que vean, pero pues no. No sé si... Muestralo, muestralo, de una vez.
+
+43:43 - HARRISON VIZCAINO
+Porque después ya me complica, no tengo tiempo. Muestralo. A ver si lo puedo conectar, a ver.
+
+43:56 - Luis Garreta
+Un momento.
+
+44:19 - Luis Garreta
+Un momento. Listo, aquí tengo pues. A ver, listo, ya les...
+
+45:07 - Luis Garreta
+Veamos a ver... Listo, ¿ahí están viendo la pantalla? Sí, señor. Listo, este sí es software web, ¿ya? Entonces, este es para la creación de los documentos de cartas de de manifiestos y de TI ya, entonces es un software, digamos esta es la interfaz típica, cartas de porte, manifiestos, bueno aquí ya hay unos documentos, pero lo interesante, lo que les decía que la inteligencia que está metida aquí es que ustedes con sólo decirle la empresa inicial donde donde del remitente, en este caso del de la carta de porte, la selecciona, que es lo típico en un software, entonces él le pone los datos y aquí el software basado en todos los procesos que hayan hecho anteriormente, o sea, la historia, el software ya sabe para dónde va eso, o sea, quién es el destinatario, entonces aquí lo pone de forma automática y basado en esos dos datos él ya sabe ¿Quién es el consignatario? ¿A quién se debe notificar? ¿Por qué país pasa? ¿Por qué país es el embarque? ¿Dónde se entrega? ¿Y qué condiciones de transporte son las que se colocan? ¿Qué es lo que va a llevar? Entonces, aquí el usuario completa, dice son 100 cajas, digamos. El software le dice, ah, listo, generalmente las marcas son esas. Cosas, la descripción es esa que está ahí, y bueno, dice aquí estos son datos que no se predicen porque son valores, ya, digamos aquí, el predice aquí, ya de una vez, el linkonter, usted completa sólo con el valor aquí, ya, aquí, bueno, aquí esto también, esto no se predice, sino que son valores que son propios, ya, usted termina de completar y él automáticamente le predice si hay alguna observación en documentos, la fecha, qué instrucciones generalmente se le dan al transportista y qué observaciones y el software y se genera la carta de porte, ya, entonces usted la guarda la guarda y él le genera aquí un manifiesto sugerido, o sea, le genera el manifiesto ya, a dónde va, qué camión o qué transporte es el que más utilizan cuando manejan esa carga, pues normalmente a veces el camión puede estar ocupado, entonces lo cambian ya, pero le genera los demás datos del conductor y el lugar país de carga, el lugar país de carga, los datos de la carta de porte, Hay una preguntita Luis, si le cambio la placa del camión, cambia los datos del conductor y todo más? Claro, usted escoge aquí, pongamos de estas, el camión o la mula donde va a llevar eso, y el automáticamente cambia todo esto. Aquí solo completa, digamos, solo los valores y guarda esto, y ya tiene ya su manifiesto y su carta de porte. Los datos del trailer? Ya, también, entonces si vamos a los detalles, este es el manifiesto que generó, y si tiene un tráiler, él lo va a colocar aquí, si el carro tiene de tráiler, y bueno aquí, le jala el último al que estaba enganchado el tráiler, si cambia de tráiler, lo puede cambiar, lo puede cambiar, él tiene aquí, digamos, una descripción básica, bueno, de la misma carta de porte, pues los puede, digamos, puede editar al conductor o editar al vehículo y cambia la información. Entonces, digamos, este software, en este caso, él predice los datos basados en la historia que ustedes manejen, es decir, si si es la historia de este año o de los demás años, él seguramente va a predecir quién es el destinatario, quién es el consignatario, y hacia dónde va, por qué, dónde es el lugar de cargas, todo eso lo predice.
+
+50:24 - HARRISON VIZCAINO
+O sea, tiene inteligencia artificial que le permite ir almacenando los tres solitarios.
+
+50:29 - Luis Garreta
+Sí, pero él aprende de sus documentos, ¿no? O sea, tenemos que tener la historia, no la o sea, él tiene que aprender de alguna fuente, ya, no sé, los documentos que ustedes han hecho este año, entonces, con eso se entrena el sistema y él ya se vuelve, digamos, él predice para dónde va una carga, o qué datos van en una carta de porte y qué datos van en un manifiesto, los genera y usted solo completa los datos que no se pueden predecir, como los valores, y se crean los documentos. Que también es una ayuda grandísima. El DTI. El DTI también, pero aquí no creo que lo tenga todavía, pero si las declaraciones es lo mismo. Aquí todavía no tengo declaraciones, pero es lo mismo, son el mismo tipo de documentos.
+
+51:27 - HARRISON VIZCAINO
+Ahí Andres, ¿qué diferencia hay con lo que tenemos actualmente?
+
+51:32 - Andres Campuzano
+La diferencia más grande es que nosotros actualmente clonamos, en vez de, bueno, usted tiene la opción de clonar el documento para traerme los datos que ya requiero, pero pues digamos que el paso a paso general es generar el DTI y se le van anclando los documentos que ya están generados y pues eso jala más información. Ahí lo único que tenemos, que no tenemos nosotros, es que nos prediga pronto con lo que ya se ha generado anteriormente. Ahora el tema es qué tan cambiante es nuestra operación, porque si la operación cambia todo el tiempo de destinatarios, cambia todo el tiempo de remitentes, cambia todo el tiempo de vehículos, pues él me va a estar llamando información que voy a tener que cambiar sí o sí todo el tiempo.
+
+52:16 - HARRISON VIZCAINO
+Pero igual va a ir aprendiendo.
+
+52:18 - Luis Garreta
+Pero igual va a ir aprendiendo.
+
+52:20 - Andres Campuzano
+Sí, sí, él aprende, pero entonces él aprende como dicen ellos de nuestros documentos. Entonces, no sé, un ejemplo, Mavesa. Mavesa siempre me va a decir que el destinatario va a estar, no sé, en Guayaquil, por dar un ejemplo cualquiera, y me va a traer siempre ese, pero si la operación el día de mañana no va para Guayaquil, sino va para Tulcán, pues me va a tocar cambiar toda la información manualmente.
+
+52:46 - Luis Garreta
+Pues él, cuando es la operación nueva, pues eso no lo conoce el sistema ya, entonces en ese momento va a haber el ingreso, digamos, uno a uno, uno, pero después de que se haya hecho ese ingreso, el sistema ya conoce que hay unos nuevos datos y el sistema se aprende de esos nuevos datos, entonces para el día de mañana ya él sabe que esa carga ya va para tal parte, para tal otra, de acuerdo a los datos que le han ingresado el día anterior.
+
+53:22 - Andres Campuzano
+Como para entenderte más, el mismo es un cliente con tres destinatarios, cualquiera de esos puede salir para el día de la operación. ¿Cómo sabe él para dónde va? Me va a traer uno el más frecuente, pero si no es el que yo voy a utilizar, tengo que cambiarlo manualmente.
+
+53:41 - Luis Garreta
+No, no, es que él trae el más frecuente, digamos aquí, si están viendo mi pantalla, dice bueno vamos a enviar a esta empresa, entonces él dice, vea, generalmente eso va para esta empresa, entonces ustedes dicen no, ahí no va, entonces el sistema llega, borra eso y pone la empresa que va a esa carga. Al colocar esta empresa... Claro, voy a tener que ponerlo manualmente.
+
+54:05 - Andres Campuzano
+No, pero al colocar esta empresa... La diferencia de nuestro software es que así como tú estás llamando a la empresa ahí, nuestro software también nos deja escribirla y se la adopcionamos y él nos llena los datos de contacto de esa preso. Lo que quiere Don HARRISON es un poco más automático, que no tengamos que estar digitando nada. Aquí nos toca cambiar si no es el más frecuente.
+
+54:30 - Luis Garreta
+No, por eso. Pero es que lo que trato de decirles es que cuando es algo nuevo, pues el software no lo conoce y ahí la predicción no se va a poder hacer. Pero apenas ustedes coloquen el otro destino, el software se adapta para predecir esa casilla de acuerdo a los anteriores, o sea, él dice ya no lo envió por esta empresa sino lo va a enviar a esta otra empresa entonces seguramente lo va a enviar a este consignatario y el software se adecua otra vez a los datos, entonces si usted dice no, ese consignatario no es, pues sí, entonces busca el consignatario que sea, digamos, no sé.
+
+55:16 - HARRISON VIZCAINO
+La regla general es de que casi siempre es el mismo destinatario. La excepción es la que mencionó Andres. Entonces, en este escenario, la excepción se la corregiría manualmente, evidentemente, sí.
+
+55:28 - Luis Garreta
+No, la excepción solo se ingresa una sola vez y el sistema aprende y otra vez está listo para ese nuevo dato.
+
+55:37 - HARRISON VIZCAINO
+Luis, ahí la pregunta que yo haría es, ¿cómo integro esto a mi software?
+
+55:43 - Luis Garreta
+¿Cómo se integraría? Una, este digamos es un software independiente que nosotros vendemos, ¿ya? La otra es que si ustedes tienen un software que hace esto, pues es como integrarlo al software que tienen actualmente.
+
+56:00 - HARRISON VIZCAINO
+¿Cómo cometer la inteligencia artificial a ese módulo? Lo que yo no quiero es lo que está diciendo Andres. Acá la gente por velocidad, clonan los documentos. Entonces, el despacho para Equapac, el último que hizo, coge y lo clona y lo pega al siguiente. Puede darse la posibilidad de que hay un error, porque la persona que clonó se olvidó de corregir algún campo y se va con el campo del despacho anterior. Entonces, esa parte es la que yo quisiera eliminar antes, porque la mayor cantidad de problemas que hemos tenido con Ecopass es justamente las clonaciones de los documentos.
+
+56:46 - Andres Campuzano
+Sí, don HARRISON, y digamos que según lo que su versión nos está comentando ahí, nos pasaría lo mismo con este software si no revisamos que el que esté colocándome sea el correcto.
+
+57:00 - HARRISON VIZCAINO
+Claro, claro. Si la persona quiere avanzar rápido, pues simplemente Pero ya sería más difícil, ¿no? Lo que pasa es que el caso que usted graficó es, digamos, el más complejo. Pero la mayor cantidad de operaciones siempre van a un origen y al mismo destino.
+
+57:19 - Luis Garreta
+Casi siempre. La mayoría.
+
+57:21 - Andres Campuzano
+Yo creería, don HARRISON, que la forma de integrar esto es de igual forma por webservice. Los documentos generándolos directamente en el software que nos están mostrando. Y la información que se genere ahí me la jale por webservice. Y lo optan para que quede almacenada como nuestro repositorio de datos. Pero los documentos se generarían externos en este software. De acuerdo.
+
+57:45 - HARRISON VIZCAINO
+Bueno, entonces revisémoslo, pues Luis, póngase. Me interesa, me interesa como compañía. Andres es nuestro líder en sistemas. MANUEL es nuestro líder de este tipo de operaciones en la frontera. Igual lo hace también en las otras oficinas. Digamos, él está ahí al lado de ustedes. Hagamos un piloto y una vez que hagan algunos pilotos, Andres, nos volvemos a reunir y me cuentan qué hemos encontrado y si es que realmente todo funciona como esperamos. Nos sentamos a negociar.
+
+58:20 - Luis Garreta
+O sea, hacemos un piloto del Equapass Bot, del de transmisión, ¿no?
+
+58:25 - HARRISON VIZCAINO
+Del Equapass y de documentos también. Me gustaría que O sea, ahorita esta es una presentación rápida, por llamarlo así. Ya con Andres pueden agendar una reunión de trabajo en donde puedan revisar más al detalle las cosas y puedan generar un esquema de trabajo más claro y entender, que ustedes también entiendan, cuáles serían las cosas que hay que ajustar para poder llegar a nuestro sistema. Si ustedes están con ALDEA, ALDEA usa el mismo CILOCTRAN pero muy personalizado a ellos. Ellos tienen un área de sistemas propia, pero la base es muy parecida a lo que nosotros tenemos. Y creo que también TransCovid-Inter tiene CILOCTRAN, Andres, si no me falla la memoria. Entonces bueno, revisémoslo, pero igual nosotros también tenemos una reunión pendiente para ver justamente el tema de automatización de inteligencia artificial. Pero está interesante, Luis, yo lo que le puedo decir es que sí tenemos interés me interesa verificar que con Andres, ya la parte técnica, visualicen realmente, Andres, usted maneja la parte técnica, visualice que las cosas en la parte técnica funcionen bien y que realmente esto se convierte en una herramienta de ahorrar tiempo a nuestra gente. Si logramos en cumplir la parte técnica, en ver la seguridad de información y ahorrarle tiempo a nuestra gente, eso es lo que estamos buscando.
+
+1:00:12 - Luis Garreta
+Yo le aseguro que, por ejemplo, el Coapaco ya está aprobado, ya está aprobado que funcione y está aprobado que ahorra tiempo y dinero, o sea, ese no tiene pierna. Ahí lo que vemos es carta de porte y manifiesto.
+
+1:00:30 - HARRISON VIZCAINO
+¿En el Equad también tiene usted lo del DTI? ¿Para la transmisión?
+
+1:00:36 - Luis Garreta
+Sí, sí, la tenemos, aunque esa es más corta, ¿no? Esa es más simple.
+
+1:00:43 - HARRISON VIZCAINO
+Sí, no, porque ahí yo he visto, ahí tocaría hablar bien con Tania MANUEL, que Tania es la que maneja los DTIs. He visto que Tania a veces tiene dificultades en encontrar las aduanas de destino. Entonces hay que verificar bien que el software esté bien alimentado en todas las rutas y estén bien claras, claramente identificadas las rutas que tiene la norma de la comunidad indígena.
+
+1:01:17 - HARRISON VIZCAINO
+nos llama a consultar, pide demoras, que nos lo encuentra, que nos quede, que nos cuente. Habría que validar esa partecita.
+
+1:01:25 - Luis Garreta
+Listo, sí, sí, todo eso se debe validar.
+
+1:01:28 - HARRISON VIZCAINO
+Perfecto, perfecto, entonces vamos adelante, pues Andres trabaje con ellos y con MANUEL y nos vemos, volvemos a ver la semana entrante si quieren.
+
+1:01:38 - Luis Garreta
+Listo, nosotros tenemos los contactos de Andres, el email, si no, el correo, Está ahí en los... Sí, sí. Listo, entonces...
+
+1:01:47 - Andres Campuzano
+Y escribo ahí el teléfono también si quiere.
+
+1:01:50 - HARRISON VIZCAINO
+Sí, gracias, por favor.
+
+1:01:52 - Andres Campuzano
+Sí, sí, yo les comparto ahorita sobre el mismo correo con el que hicimos la reunión.
+
+1:01:58 - Luis Garreta
+Listo. Ahí quedan todos los datos. Listo, mi compañero se contacta con usted.
+
+1:02:04 - Unidentified Speaker
+Perfecto.
+
+1:02:04 - HARRISON VIZCAINO
+Listo, les agradecemos muchísimo. Muy amable por su atención, ¿no?
+
+1:02:08 - Luis Garreta
+Ustedes, ustedes muy amables.
+
+1:02:10 - HARRISON VIZCAINO
+Muchas gracias por todo. Buen día.
+
+1:02:13 - Luis Garreta
+que estén bien.

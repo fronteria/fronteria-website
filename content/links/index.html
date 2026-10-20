@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting…</title>
+  <script>
+    // Central map of slugs -> targets
+    const MAP = {
+      instalacion: "https://youtu.be/oHNBdp1jUzY",
+      cartaporte: "https://youtu.be/k1EAHYGkRfI",
+      manifiesto: "https://youtu.be/R2y7PsGtiXE"
+    };
+
+    (function () {
+      const slug = (location.hash || "").replace(/^#/, "").trim();
+      const target = MAP[slug];
+      if (target) {
+        location.replace(target);   // no history entry
+      } else {
+        // fallback (optional): send to a hub page
+        location.replace("/recursos/videos/");
+      }
+    })();
+  </script>
+</head>
+<body>Redirecting…</body>
+</html>
+

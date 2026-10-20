@@ -1,0 +1,51 @@
+EcuapassBot: Menos tiempo, más seguridad!
+Wed, Oct 29, 2025
+
+Summary:
+
+Se presentó EcuapassBot, una herramienta diseñada para automatizar la transmisión de documentos al sistema Equapass, reduciendo significativamente el tiempo de procesamiento. Luis Garreta explicó que el software corrige errores comunes y genera ahorros en costos operativos, habiendo sido probado con éxito en otras empresas. Harrison Vizcaíno mostró interés en integrar esta herramienta con su sistema, planteando la posibilidad de implementar un piloto en Ipiales para automatizar procesos de exportación.
+
+Durante la discusión, se abordó la importancia de la integración del EcuapassBot para minimizar errores en la clonación de documentos. Garreta detalló que la integración podría realizarse a través de un software independiente o mediante webservice. Se acordó llevar a cabo un piloto y se asignó a Andrés Campuzano y Manuel Castro la tarea de trabajar en los detalles técnicos. También se destacó la necesidad de validar la información en el software para asegurar la correcta identificación de rutas, y se programará una reunión futura para revisar los resultados del piloto y discutir los próximos pasos.
+
+
+Chapters & Topics:
+
+Presentación de EcuapassBot y sus beneficios
+Luis Garreta introdujo EcuapassBot, una solución que automatiza la transmisión de documentos al sistema Equapass, logrando una reducción del tiempo de procesamiento de 10-20 minutos a 40-50 segundos. Manuel Castro, quien también participó, mencionó la importancia de verificar la información, aunque el software ya corrige errores comunes en los datos. La herramienta promete un ahorro considerable en costos operativos y mejora la eficiencia en el manejo de documentos.
+* Presentación del software Equapass Bot y sus beneficios.
+
+Integración de EcuapassBot y Software Web
+Harrison Vizcaíno está interesado en implementar EcuapassBot para optimizar los procesos de su empresa, que opera en Ecuador y Colombia. Luis Garreta detalla que el software se instala en cada máquina y discute la posibilidad de una conexión web para facilitar la transmisión de datos. Andres Campuzano plantea la necesidad de un web service para mejorar la integración con el sistema web de Vizcaíno.
+* Planificación de un piloto para validar el funcionamiento del software.
+
+Propuesta de Automatización de Procesos con EcuapassBot
+Harrison Vizcaíno destacó la necesidad de un sistema que permita la automatización de documentos y procesos en diferentes oficinas, sugiriendo un piloto en Ipiales. Luis Garreta explicó que su empresa ha trabajado con otros clientes exitosamente y que el software puede optimizar significativamente los procesos. Se acordó que Andrés Campuzano liderará el proyecto desde Bogotá.
+* Estrategias para la automatización de procesos en la empresa.
+
+Demostración de EcuapassBot y su Inteligencia Artificial
+Luis Garreta explicó las funcionalidades de EcuapassBot, que permite la creación automática de documentos de transporte mediante la predicción de datos a partir de la historia de documentos anteriores. Harrison Vizcaino y Andres Campuzano discutieron las diferencias con el software actual, destacando la capacidad del nuevo sistema para aprender y adaptarse a cambios en la operación. Sin embargo, se mencionó que en situaciones de cambios frecuentes, el usuario aún deberá realizar ajustes manuales.
+
+Integración del EcuapassBot y Automatización de Procesos
+Harrison Vizcaíno expresó su preocupación por los errores en la clonación de documentos y la necesidad de integrar el EcuapassBot a su sistema. Luis Garreta sugirió que la integración podría hacerse mediante un software independiente o webservice. Se acordó realizar un piloto para evaluar el funcionamiento del sistema y se programará una reunión posterior para discutir los resultados.
+* Discusión sobre la integración del software con sistemas existentes.
+
+
+Action Items:
+
+* Manuel Castro revisará los errores de digitación en el sistema Equapass y proporcionará retroalimentación sobre el uso del software.
+* Andres Campuzano coordinará la instalación del software en las máquinas de los usuarios.
+* Harrison Vizcaíno organizará un piloto en las oficinas de Ipiales para validar el funcionamiento del software.
+* Luis Garreta y Omar Caicedo Ortiz se encargarán de la gestión técnica y programación del software.
+* Luis Garreta presentará el software Equapass Bot a los interesados en la próxima reunión.
+
+
+Key Questions:
+
+* ¿Qué errores comunes se presentan al usar el sistema Equapass?
+* ¿Cómo es el tema de la inversión con ustedes en el caso de que esto funcionara?
+* ¿Cómo se integrará el software Equapass Bot con el sistema web existente?
+
+
+Notepad:
+
+* No notes

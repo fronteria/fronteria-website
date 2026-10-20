@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div class="flex-l mt4-l center measure-wide-l ph3">
+  <article class="w-70-l f4 tj-l lh-copy {{ $.Param " text_color" | default "mid-gray" }}">
+    {{ .Content }}
+  </article>
+
+  {{ partial "sidebar.html" . }}
+</div>
+{{ end }}
