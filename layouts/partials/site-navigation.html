@@ -1,5 +1,5 @@
 <div class="wrap header-inner">
   <a class="brand" href="{{ .Site.Home.RelPermalink }}" aria-label="FronterIA Software, inicio"><img class="brand-mark" src="/images/logo-fronteria-cyborg.png" alt=""><span>Fronter<span class="brand-ia">IA</span><small>Software inteligente</small></span></a>
-  <details class="mobile-menu"><summary aria-label="Abrir menú">Menú</summary><nav aria-label="Navegación principal"><ul class="nav-list">{{ range .Site.Menus.main }}<li><a href="{{ .URL }}">{{ .Name }}</a></li>{{ end }}<li><a class="nav-cta" href="https://cursos.fronteria.co/">Cursos de IA ↗</a></li></ul></nav></details>
-  <nav class="desktop-nav" aria-label="Navegación principal"><ul class="nav-list">{{ range .Site.Menus.main }}<li><a href="{{ .URL }}">{{ .Name }}</a></li>{{ end }}<li><a class="nav-cta" href="https://cursos.fronteria.co/">Cursos de IA ↗</a></li></ul></nav>
+  <details class="mobile-menu"><summary aria-label="Abrir menú">Menú</summary><nav aria-label="Navegación principal"><ul class="nav-list">{{ range .Site.Menus.main }}<li><a href="{{ .URL }}">{{ .Name }}</a></li>{{ end }}</ul></nav></details>
+  <nav class="desktop-nav" aria-label="Navegación principal"><ul class="nav-list">{{ range .Site.Menus.main }}<li><a href="{{ .URL }}">{{ .Name }}</a></li>{{ end }}</ul></nav>
 </div>

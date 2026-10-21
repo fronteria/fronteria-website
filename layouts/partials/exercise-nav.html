@@ -1,0 +1,2 @@
+{{ $exercises := where site.RegularPages "Params.exercise" "ne" nil }}
+<nav aria-label="Ejercicios del taller"><ol class="exercise-nav">{{ range $exercises.ByWeight }}<li{{ if eq .RelPermalink $.RelPermalink }} class="current"{{ end }}><a href="{{ .RelPermalink }}"><span>{{ .Params.exercise }}</span>{{ .Title }}</a></li>{{ end }}</ol></nav>

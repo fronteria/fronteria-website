@@ -8,6 +8,7 @@
   <title>{{ if .IsHome }}{{ .Site.Title }} · Software, automatización e IA{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+  {{ if eq .Section "cursos" }}<script src="{{ "js-cursos.js" | relURL }}" defer></script>{{ end }}
 </head>
 <body>
   {{ partial "site-header.html" . }}

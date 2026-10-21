@@ -31,7 +31,7 @@ title = "FronterIA Software"
 	[[menu.main]]
 		identifier = "cursos"
 		name = "Capacitación en IA"
-		url = "https://cursos.fronteria.co/"
+		url = "/cursos/"
 		weight = 25
 
 [security]
