@@ -7,6 +7,7 @@
   <meta name="theme-color" content="#101c24">
   <title>{{ if .IsHome }}{{ .Site.Title }} · Software, automatización e IA{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
   <link rel="canonical" href="{{ .Permalink }}">
+  {{ if eq .Section "cursos" }}<link rel="icon" href="{{ "images/fronteria-mascota-provisional.png" | relURL }}" type="image/png">{{ end }}
   <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
   {{ if eq .Section "cursos" }}<script src="{{ "js-cursos.js" | relURL }}" defer></script>{{ end }}
 </head>

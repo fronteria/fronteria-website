@@ -1,4 +1,24 @@
 {{ define "main" }}
+{{ if eq .RelPermalink "/cursos/" }}
+<section class="hero courses-home-hero">
+  <div class="wrap hero-grid">
+    <div class="hero-copy">
+      <p class="eyebrow">Capacitación presencial para empresas</p>
+      <h1>IA útil para el trabajo diario en logística y comercio exterior.</h1>
+      <p class="hero-lede">Talleres prácticos para que su equipo use la inteligencia artificial con criterio en correos, documentos y hojas de cálculo.</p>
+      <div class="actions"><a class="button button-primary" href="{{ "cursos/ia-logistica-comercio-internacional/" | relURL }}">Ver el programa<span aria-hidden="true">→</span></a><a class="button button-outline" href="mailto:contacto@fronteria.co?subject=Capacitaci%C3%B3n%20en%20IA">Solicitar por correo</a><a class="button button-outline" href="https://wa.me/573154490157" target="_blank" rel="noopener">WhatsApp</a></div>
+      <p class="hero-note">La IA ayuda. Su equipo decide y revisa.</p>
+    </div>
+    <div class="hero-visual"><span class="visual-orbit orbit-one"></span><span class="visual-orbit orbit-two"></span><img class="courses-mascot" src="{{ "images/fronteria-mascota-provisional.png" | relURL }}" alt="Ilustración de FronterIA para los cursos" width="255" height="338"><span class="visual-caption">Aprender haciendo</span></div>
+  </div>
+</section>
+<section class="section wrap">
+  <div class="section-heading"><div><p class="eyebrow">Programa disponible</p><h2>IA aplicada a Logística y Comercio Internacional</h2></div><a class="text-link" href="{{ "cursos/ia-logistica-comercio-internacional/" | relURL }}">Ver el programa <span aria-hidden="true">→</span></a></div>
+  <div class="feature-card"><div class="feature-number">01</div><div><span class="status-pill">Disponible · Fundamentos</span><h3>Un taller de 4 horas, con práctica desde el primer ejercicio.</h3><p>Doce ejercicios con datos ficticios para practicar correos, documentos, Excel y verificación de información.</p></div><a class="circle-arrow" href="{{ "cursos/ia-logistica-comercio-internacional/fundamentos/" | relURL }}" aria-label="Ver los materiales de Fundamentos">↗</a></div>
+</section>
+<section class="band"><div class="wrap band-inner"><div><p class="eyebrow">Para equipos no técnicos</p><h2>Aplicaciones concretas para el trabajo de oficina.</h2></div><div class="band-points"><span>Correos y traducciones</span><span>Documentos comerciales</span><span>Excel y PDF</span><span>Verificación humana</span></div></div></section>
+<section class="section wrap levels-section"><p class="eyebrow">Ruta de aprendizaje</p><h2>Un nivel disponible. Más por desarrollar.</h2><div class="level-grid"><article class="level-card level-current"><span class="level-tag">Disponible</span><h3>Fundamentos</h3><p>Primeros pasos y ejercicios prácticos para tareas administrativas.</p><a href="{{ "cursos/ia-logistica-comercio-internacional/fundamentos/" | relURL }}">Ir al taller →</a></article><article class="level-card"><span class="level-tag muted">Próximamente</span><h3>Intermedio</h3><p>Nuevo contenido en preparación.</p></article><article class="level-card"><span class="level-tag muted">Próximamente</span><h3>Avanzado</h3><p>Nuevo contenido en preparación.</p></article></div></section>
+{{ else }}
 {{ partial "page-header.html" . }}
 <main class="wrap content-layout">
   <article class="page-content prose">{{ .Content }}</article>
@@ -12,4 +32,5 @@
     {{ else }}<div class="listing-cards">{{ range .Pages.ByWeight }}<article class="listing-card"><p class="card-kicker">{{ $.Section | humanize }}</p><h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3><p>{{ .Description | default .Summary | plainify | truncate 190 }}</p><a class="card-link" href="{{ .RelPermalink }}">Ver contenido <span>→</span></a></article>{{ end }}</div>{{ end }}
   </section>{{ end }}
 </main>
+{{ end }}
 {{ end }}
