@@ -1,8 +1,1 @@
-<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}" >
-      &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }} - r{{ .Site.Params.version }}
-  </a>
-    <div>{{ partialCached "social/follow.html" . }}</div>
-  </div>
-</footer>
+<footer class="site-footer"><div class="wrap footer-inner"><div><a class="footer-brand" href="{{ .Site.Home.RelPermalink }}">FronterIA Software</a><p>Desarrollo de software, automatización e inteligencia artificial para empresas.</p></div><div class="footer-links"><a href="/productos/">Productos</a><a href="https://cursos.fronteria.co/">Cursos de IA para empresas ↗</a><a href="/acercade/">Acerca de FronterIA</a></div><div class="footer-links"><a href="mailto:contacto@fronteria.co">contacto@fronteria.co</a><a href="https://wa.me/573154490157" target="_blank" rel="noopener">WhatsApp +57 315 449 0157</a><a href="/contacto/">Contacto</a></div><small>© {{ now.Year }} FronterIA Software · Colombia</small></div></footer>

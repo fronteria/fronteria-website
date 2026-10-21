@@ -1,12 +1,17 @@
 ---
-title: "Acerca de Nosotros"
-description: "Acerca de FronterIA Software"
-featured_image: "/images/c3po-face.png"
+title: "Tecnología pensada para el trabajo real"
+description: "Conoce el enfoque de FronterIA en software, automatización e inteligencia artificial aplicada."
 ---
 
-Somos un equipo de desarrolladores de software experimentados y expertos en IA dedicados a proporcionar soluciones innovadoras para empresas en Ecuador.
+En FronterIA desarrollamos herramientas digitales para resolver necesidades operativas concretas. Nos enfocamos en automatizar tareas, ordenar flujos de información y hacer que la tecnología sea útil para las personas que la utilizan todos los días.
 
-Nuestra misión es empoderar a las empresas con tecnología de vanguardia para mejorar la eficiencia y la productividad.
+Nuestra experiencia en logística y comercio exterior nos permite trabajar con procesos documentales exigentes, como la creación y transmisión de documentos asociados a ECUAPASS. Desarrollamos soluciones propias y también acompañamos a equipos empresariales que quieren explorar el uso práctico de la inteligencia artificial.
 
+### Lo que hacemos
 
-#### [Contactenos](/contacto/) para aprender más o solicitar un demo!
+- Desarrollamos aplicaciones de software alineadas con el proceso de cada empresa.
+- Automatizamos tareas repetitivas y flujos de trabajo documentales.
+- Aplicamos IA de forma práctica para apoyar la extracción, organización y reutilización de información.
+- Capacitamos equipos empresariales en el uso responsable y efectivo de herramientas de IA.
+
+Conoce nuestros [productos](/productos/) o [conversemos sobre las necesidades de tu equipo](/contacto/).

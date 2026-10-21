@@ -1,9 +1,29 @@
 {{ define "main" }}
-<div class="flex-l mt4-l center measure-wide-l ph3">
-  <article class="w-70-l f4 tj-l lh-copy {{ $.Param " text_color" | default "mid-gray" }}">
-    {{ .Content }}
-  </article>
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div class="hero-copy">
+      <p class="eyebrow">Software · Automatización · Inteligencia artificial</p>
+      <h1>Menos tareas manuales. Más capacidad para crecer.</h1>
+      <p class="hero-lede">Desarrollamos software y soluciones de IA que simplifican procesos empresariales, con experiencia en logística y comercio exterior.</p>
+      <div class="actions"><a class="button button-primary" href="/contacto/">Conversemos sobre tu proceso <span aria-hidden="true">→</span></a><a class="button button-outline" href="/productos/">Explorar soluciones</a></div>
+      <p class="hero-note">Tecnología práctica, diseñada alrededor del trabajo real de las empresas.</p>
+    </div>
+    <div class="hero-visual" aria-hidden="true"><span class="visual-orbit"></span><span class="visual-orbit orbit-two"></span><img class="hero-mark" src="/images/logo-fronteria-cyborg.png" alt=""><span class="visual-caption">Ideas que se convierten en procesos inteligentes</span></div>
+  </div>
+</section>
 
-  {{ partial "sidebar.html" . }}
-</div>
+<section class="section wrap">
+  <div class="section-heading"><div><p class="eyebrow">Nuestras soluciones</p><h2>Software para operaciones que no pueden detenerse</h2></div><a class="text-link" href="/productos/">Ver todas las soluciones →</a></div>
+  <div class="product-grid">
+    <article class="product-card"><span class="product-icon">01</span><p class="card-kicker">Automatización</p><h3><a href="/productos/ecuapassbot/">EcuapassBot</a></h3><p>Automatiza la digitación de documentos de transporte en ECUAPASS y ayuda a reducir el tiempo dedicado a tareas repetitivas.</p><a class="card-link" href="/productos/ecuapassbot/">Conocer EcuapassBot <span>→</span></a></article>
+    <article class="product-card"><span class="product-icon">02</span><p class="card-kicker">Gestión documental</p><h3><a href="/productos/ecuapassdocs/">EcuapassDocs</a></h3><p>Crea y gestiona cartas de porte, manifiestos y declaraciones con autocompletado basado en información de la operación.</p><a class="card-link" href="/productos/ecuapassdocs/">Conocer EcuapassDocs <span>→</span></a></article>
+    <article class="product-card"><span class="product-icon">03</span><p class="card-kicker">Solución integrada</p><h3><a href="/productos/ecuapasssuite/">EcuapassSuite</a></h3><p>Un flujo integrado para crear, consultar y transmitir documentos relacionados con ECUAPASS.</p><a class="card-link" href="/productos/ecuapasssuite/">Conocer EcuapassSuite <span>→</span></a></article>
+  </div>
+</section>
+
+<section class="band"><div class="wrap band-inner"><div><p class="eyebrow">Nuevo servicio · Formación empresarial</p><h2>Capacita a tu equipo para aplicar IA en su trabajo diario</h2><p>Ofrecemos cursos prácticos de inteligencia artificial para equipos de logística y comercio exterior, con ejercicios basados en tareas reales del sector.</p><a class="button button-primary" href="https://cursos.fronteria.co/">Conocer los cursos <span aria-hidden="true">↗</span></a></div><div class="course-highlight"><span class="course-label">Programa disponible</span><h3>IA aplicada a Logística y Comercio Internacional</h3><p>Una introducción práctica para equipos administrativos, con material de apoyo y ejercicios guiados.</p><a class="text-link" href="https://cursos.fronteria.co/cursos/ia-logistica-comercio-internacional/">Ver programa y materiales →</a></div></div></section>
+
+<section class="section wrap split-section"><div><p class="eyebrow">Cómo ayudamos</p><h2>La tecnología debe resolver problemas concretos</h2><p class="section-lede">Partimos de los procesos de cada organización para crear herramientas útiles, fáciles de adoptar y enfocadas en mejorar el trabajo cotidiano.</p></div><div class="value-list"><div><span>01</span><p><strong>Entendemos el proceso</strong><br>Identificamos tareas repetitivas, puntos críticos y oportunidades de mejora.</p></div><div><span>02</span><p><strong>Diseñamos la solución</strong><br>Combinamos desarrollo de software, automatización e IA según la necesidad.</p></div><div><span>03</span><p><strong>Acompañamos la adopción</strong><br>Apoyamos a los equipos con demostraciones, capacitación y orientación.</p></div></div></section>
+
+<section class="contact-band"><div class="wrap contact-band-inner"><div><p class="eyebrow">Hablemos</p><h2>¿Qué proceso te gustaría mejorar?</h2><p>Cuéntanos qué necesita tu equipo y exploremos juntos una solución.</p></div><a class="button button-primary" href="/contacto/">Contactar a FronterIA →</a></div></section>
 {{ end }}

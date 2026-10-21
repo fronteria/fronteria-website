@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="{{ .Site.Language.Lang | default "es" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ .Description | default .Site.Params.description }}">
+  <meta name="theme-color" content="#101c24">
+  <title>{{ if .IsHome }}{{ .Site.Title }} · Software, automatización e IA{{ else }}{{ .Title }} · {{ .Site.Title }}{{ end }}</title>
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+</head>
+<body>
+  {{ partial "site-header.html" . }}
+  <main id="contenido">{{ block "main" . }}{{ end }}</main>
+  {{ partial "site-footer.html" . }}
+</body>
+</html>

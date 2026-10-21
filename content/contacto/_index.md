@@ -1,10 +1,9 @@
 ---
-title: "Contáctanos"
-description: "Contacta a nuestro equipo"
-featured_image: "/images/c3po-face.png"
+title: "Conversemos sobre tu proyecto"
+description: "Cuéntanos qué proceso quieres mejorar o cómo podemos apoyar a tu equipo."
 ---
 
-Déjanos ayudarte a optimizar y mejorar tu trabajo
+Estamos disponibles para conversar sobre software, automatización, soluciones para comercio exterior y capacitación empresarial en inteligencia artificial.
 
 <div class="contact-icons">
 <p> <a href="https://wa.me/573154490157" target="_blank">
@@ -22,7 +21,7 @@ Déjanos ayudarte a optimizar y mejorar tu trabajo
 </a></p>
 
 </a></p>
-<p><a href="https://softwareinteligente.github.io">
+<p><a href="https://fronteria.co">
 		<img src="/images/web-logo.png" alt="Website" width="50">
 		<b>Website: </b><span>https://fronteria.co</span>
 </a></p>

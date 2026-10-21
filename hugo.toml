@@ -1,8 +1,7 @@
 baseURL = "https://fronteria.co"
 locale = "es-es"
 title = "FronterIA Software"
-theme = "ananke"
-#theme = 'PaperMod'
+# El sitio utiliza plantillas Hugo propias; no depende de un tema externo.
 
 [menu]
 	[[menu.main]]
@@ -29,6 +28,11 @@ theme = "ananke"
 		name = "Recursos"
 		url = "/recursos/"
 		weight = 30
+	[[menu.main]]
+		identifier = "cursos"
+		name = "Capacitación en IA"
+		url = "https://cursos.fronteria.co/"
+		weight = 25
 
 [security]
   allowContent = ['^text/markdown$', '^text/html$']
@@ -37,8 +41,5 @@ theme = "ananke"
   unsafe = true
 
 [params]
-	# choose fitting and alignment styles for the featured image using Tachyons classes such as "cover|contain" for fitting and "bg-top|bg-center|bg-bottom" for alignment, or add any other class space-separated to customize further
-	featured_image_class = "contain bg-left"
-	#site_logo = "images/c3po-face.svg"
-    version = "1.08"     # Shown in pages' footer
+	description = "Desarrollo de software, automatización e inteligencia artificial para empresas."
 
