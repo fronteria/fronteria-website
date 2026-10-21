@@ -27,13 +27,6 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
-      - name: Checkout courses site
-        uses: actions/checkout@v4
-        with:
-          repository: fronteria/fronteria-cursos
-          ref: main
-          path: courses-source
-
       - name: Install Hugo
         run: |
           curl -sSfL -o hugo.deb "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
@@ -48,11 +41,6 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: hugo --minify --baseURL "https://fronteria.co/"
-
-      - name: Build courses under /cursos/
-        run: |
-          find courses-source/content -type f -name '*.md' -exec sed -i 's|](/recursos/|](/cursos/recursos/|g' {} +
-          hugo --source courses-source --destination "$GITHUB_WORKSPACE/public/cursos" --minify --baseURL "https://fronteria.co/cursos/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
