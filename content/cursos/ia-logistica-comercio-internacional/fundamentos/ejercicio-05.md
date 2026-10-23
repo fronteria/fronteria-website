@@ -38,6 +38,14 @@ Dime qué datos faltarían para que esta cotización sea completa.
 {{< /prompt >}}
 {{< /step >}}
 
+{{< help >}}
+- Revise cantidades, tarifas y moneda comparándolas con los datos del ejercicio.
+- Si el total no coincide, pida a la IA que muestre el cálculo y compruebe cada operación.
+- No use la cotización hasta confirmar los datos que falten.
+{{< /help >}}
+
+{{< check question="La IA calculó un total distinto al que obtiene de los datos. ¿Qué debe hacer?" options="Usar el total de la IA|Verificar cantidades y repetir el cálculo|Elegir el total que parezca más razonable" answer="1" feedback="La persona debe verificar los datos y repetir el cálculo antes de usar la cotización." >}}
+
 {{< reflection title="Antes de compartir una cotización" >}}
 ¿Coincidió el total? ¿Qué dato operativo o comercial pedirían confirmar antes de enviar la oferta?
 {{< /reflection >}}

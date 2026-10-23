@@ -25,6 +25,14 @@ Te paso una factura comercial y un packing list en PDF. Extrae los datos en dos 
 Copie las tablas a Excel. Multiplique a mano una línea y compare los totales. Valores de control: factura FOB **USD 21.790**; packing list **440 unidades, 245 cajas, 4.360 kg netos, 4.690 kg brutos y 50,20 m³**. Las partidas arancelarias siempre se verifican en el arancel vigente.
 {{< /step >}}
 
+{{< help >}}
+- Compruebe que cargó el archivo correspondiente y que la herramienta admite PDF.
+- Si no permite adjuntarlo, solicite al instructor la alternativa de texto o transcriba los campos necesarios.
+- Pida que marque como “no aparece” cualquier dato que no encuentre y verifique los valores en el documento.
+{{< /help >}}
+
+{{< check question="Si un dato no aparece claramente en el PDF, ¿qué debe hacer la IA?" options="Completarlo con una suposición|Dejarlo indicado como no encontrado y pedir verificación|Copiar un dato parecido de otra fila" answer="1" feedback="No se deben inventar datos. Hay que señalar el campo y comprobarlo en el documento fuente." >}}
+
 {{< reflection title="Resultado de la verificación" >}}
 ¿Qué dato tuvo que comprobar manualmente? ¿Coinciden las cantidades entre factura y packing list?
 {{< /reflection >}}

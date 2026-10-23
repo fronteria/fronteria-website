@@ -1,0 +1,8 @@
+<fieldset class="learning-check" data-learning-check>
+  <legend>{{ .Get "question" }}</legend>
+  {{ range $index, $option := split (.Get "options") "|" }}
+  <label class="learning-check-option"><input type="radio" name="check-{{ $.Ordinal }}" value="{{ $index }}"> <span>{{ $option }}</span></label>
+  {{ end }}
+  <button type="button" class="learning-check-button" data-check-answer="{{ .Get "answer" }}" data-feedback="{{ .Get "feedback" }}">Comprobar respuesta</button>
+  <p class="learning-check-feedback" aria-live="polite" tabindex="-1"></p>
+</fieldset>

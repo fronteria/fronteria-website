@@ -38,6 +38,13 @@ Hazlo más corto y agrega que estamos buscando opciones para recuperar tiempo.
 {{< /prompt >}}
 {{< /step >}}
 
+{{< help >}}
+- Compruebe que copió el pedido completo y compare qué datos incluyó cada versión.
+- Pida a la herramienta que explique con palabras sencillas qué información le faltó para responder mejor.
+{{< /help >}}
+
+{{< check question="¿Qué suele ayudar a obtener una respuesta más útil?" options="Dar contexto, tarea y formato esperado|Escribir solo ‘ayúdame’|Aceptar la primera respuesta sin revisarla" answer="0" feedback="El contexto, una tarea clara y el formato esperado orientan la respuesta; después conviene revisarla." >}}
+
 {{< reflection title="Comparen y registren lo aprendido" >}}
 ¿Cuál correo revisarían menos antes de usarlo? ¿Qué información le faltó al pedido A? ¿El seguimiento cambió algo que debía conservarse?
 {{< /reflection >}}

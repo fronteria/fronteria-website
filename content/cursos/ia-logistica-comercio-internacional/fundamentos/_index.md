@@ -18,7 +18,7 @@ El taller comienza con una conversación accesible sobre qué puede hacer la IA 
 2. **Correos y comunicación:** redactar respuestas, resumir cadenas de correos y traducir mensajes de trabajo.
 3. **Documentos comerciales:** preparar una cotización, revisar una carta y resumir un contrato identificando puntos que requieren atención.
 4. **Excel y PDF:** ordenar datos, pedir y comprobar fórmulas, y extraer información de documentos PDF.
-5. **Verificación y uso responsable:** detectar errores en respuestas de IA y reconocer qué información no se debe compartir.
+6. **Verificación y uso responsable:** detectar errores en respuestas de IA y reconocer qué información no se debe compartir.
 7. **Práctica final de trabajo:** aplicar lo aprendido a una tarea administrativa propia, sin incluir datos sensibles.
 8. **Cierre de uso cotidiano:** probar la IA para aprender, organizarse o resolver una tarea general.
 

@@ -19,6 +19,14 @@ Compare este resumen preparado por una IA con la [factura comercial (PDF)](/recu
 Hay **cinco errores**. Compare el total, Incoterm, número de cajas, tamaño de contenedor y precio unitario de las mesas contra los PDF.
 {{< /step >}}
 
+{{< help >}}
+- Compare cada cifra, fecha y nombre con la factura o el packing list original.
+- Pida a la IA que explique de qué dato del documento obtuvo una cifra; confirme la referencia directamente en el archivo.
+- Si persiste una diferencia, márquela para revisarla con el instructor.
+{{< /help >}}
+
+{{< check question="Un resumen de IA parece convincente. ¿Cómo confirma si tiene un error?" options="Revisándolo contra los documentos fuente|Pidiendo a la IA que confirme que está correcto|Comparándolo con otro resumen de IA" answer="0" feedback="La fuente para verificar cifras y datos es el documento original; una segunda respuesta de IA no lo sustituye." >}}
+
 {{< reflection title="Errores detectados" >}}
 Escriba cada dato incorrecto y el dato correcto encontrado en la fuente. ¿Cuál error parecía más convincente?
 {{< /reflection >}}

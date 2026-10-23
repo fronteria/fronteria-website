@@ -17,18 +17,20 @@ Lo más importante es que todas las personas puedan entrar a la herramienta eleg
 ## Dos días antes
 
 - Confirmar que cada asistente puede entrar; ayudar a quien lo necesite o asignarle una pareja.
-- Pedir que traigan computador cargado, Excel y Word, y una tarea de la semana sin datos sensibles para el ejercicio 12.
+- Pedir que traigan computador cargado, navegador actualizado, Excel, acceso a los documentos del taller y una tarea de la semana sin datos sensibles para el ejercicio 12.
+- Pedir que preparen una cuenta gratuita de ChatGPT o Claude y acceso al sitio del curso.
+- Recomendar auriculares con micrófono y dos ventanas del navegador: curso e IA.
 - Probar la conexión Wi-Fi con el grupo previsto.
 
 ## El día del taller
 
-Llegar 45 minutos antes. Compartir con anticipación el enlace a los [archivos de práctica]({{< relref "recursos" >}}), confirmar que cada participante pueda abrir la herramienta de IA y preparar proyector y videoconferencia. Ensayar las demostraciones de apertura, correo, Excel, PDF y cierre cotidiano. Para el cierre, use ejemplos ficticios y aclare que compartir resultados es voluntario. La captura ficticia de error está disponible como apoyo opcional en [08 · Captura de error de Excel (PNG)](/recursos/ia-logistica-comercio-internacional/fundamentos/ejercicios/08_pantalla_error_excel.png).
+El instructor crea la reunión virtual, comprueba la conexión, los micrófonos y el acceso al curso y a la herramienta de IA. Comparta con anticipación el enlace a los [archivos de práctica]({{< relref "recursos" >}}). Inicie cada bloque con una demostración breve, recorra las oficinas durante la práctica y acuerde puntos de sincronización entre bloques. Para el cierre, use ejemplos ficticios y aclare que compartir resultados es voluntario. La captura ficticia de error está disponible como apoyo opcional en [08 · Captura de error de Excel (PNG)](/recursos/ia-logistica-comercio-internacional/fundamentos/ejercicios/08_pantalla_error_excel.png).
 
 ## Si algo falla
 
 | Problema | Alternativa sugerida |
 |---|---|
-| No hay internet | Usar la conexión del instructor y trabajar en grupo frente a la pantalla. |
+| No hay internet | Avisar al instructor y pausar la actividad en línea; continuar con una demostración o revisión de los archivos disponibles mientras se restablece la conexión. |
 | Alguien no puede entrar | Trabajar en pareja y alternar el uso. |
 | Se alcanza el límite gratuito | Esperar el reinicio o continuar en otra herramienta disponible. |
 | La respuesta de IA parece incorrecta | Pedir que la revise y verificar contra el documento fuente. |

@@ -21,7 +21,7 @@ Tengo una hoja de Excel en español. En la hoja Embarques, las columnas son: H =
 {{< /prompt >}}
 {{< /step >}}
 
-{{< step number="3" title="Busquen la tarifa de lista" >}}
+{{< step number="3" title="Busquen la tarifa de lista" optional="true" >}}
 Pidan una búsqueda que coincida con origen, destino y tipo de contenedor:
 
 {{< prompt >}}
@@ -29,7 +29,7 @@ En la hoja Embarques, en la celda N2 quiero la tarifa de lista. La hoja Tarifas 
 {{< /prompt >}}
 {{< /step >}}
 
-{{< step number="4" title="Marquen los retrasos" >}}
+{{< step number="4" title="Marquen los retrasos" optional="true" >}}
 Pidan una fórmula que señale cuándo hace falta revisar un embarque:
 
 {{< prompt >}}
@@ -37,7 +37,7 @@ En la hoja Embarques, la columna M tiene los días de retraso. Dame la fórmula 
 {{< /prompt >}}
 {{< /step >}}
 
-{{< step number="5" title="Resuman los datos por cliente" >}}
+{{< step number="5" title="Resuman los datos por cliente" optional="true" >}}
 Pidan las fórmulas de suma y conteo para la hoja Resumen:
 
 {{< prompt >}}
@@ -60,6 +60,14 @@ Excel me muestra este error: [mensaje]. Esta es mi fórmula: [fórmula]. Mis dat
 
 Si Excel marca error de sintaxis, pruebe cambiar punto y coma por comas o viceversa, según la configuración regional. Verifique manualmente el total de la fila 2; el total de la hoja Resumen debe coincidir con la suma de la columna H.
 {{< /step >}}
+
+{{< help >}}
+- Compruebe que usa la hoja y las columnas indicadas; revise si su Excel separa argumentos con punto y coma o con comas.
+- Pruebe la fórmula en una fila y compare el resultado con una suma manual antes de arrastrarla.
+- Si aparece un error, copie el mensaje y la fórmula para pedir una explicación; verifique el ajuste en Excel.
+{{< /help >}}
+
+{{< check question="La IA propone una fórmula y el total no coincide con Excel. ¿Qué conviene hacer?" options="Confiar en la respuesta de la IA|Revisar las celdas y comprobar el cálculo en Excel|Copiar el total y continuar" answer="1" feedback="Compruebe las celdas y el cálculo en Excel. Una fórmula sugerida debe probarse con los datos reales." >}}
 
 {{< reflection title="Comprobación de Excel" >}}
 ¿Qué fórmula necesitó más ajuste? ¿Coincidió el total de la hoja Resumen con la suma de la columna H?

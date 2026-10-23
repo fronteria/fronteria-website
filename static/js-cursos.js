@@ -30,6 +30,63 @@ document.querySelectorAll('[data-step-complete]').forEach((checkbox) => {
   });
 });
 
+const updateCourseProgress = () => {
+  const progress = document.querySelector('[data-course-progress]');
+  if (!progress) return;
+  const exercises = [...document.querySelectorAll('.exercise-nav a')];
+  const activityCount = exercises.length;
+  const completedActivities = exercises.filter((link) => {
+    try {
+      const key = `fronteria-course:${new URL(link.href).pathname}`;
+      const state = JSON.parse(window.localStorage.getItem(key) || '{}');
+      const page = link.pathname.endsWith(window.location.pathname)
+        ? document
+        : null;
+      if (page) {
+        const requiredSteps = [...page.querySelectorAll('[data-step][data-optional="false"]')];
+        return requiredSteps.length > 0 && requiredSteps.every((step) => state.steps && state.steps[step.dataset.step]);
+      }
+      return false;
+    } catch (_) {
+      return false;
+    }
+  }).length;
+  const stepNodes = [...document.querySelectorAll('[data-step][data-optional="false"]')];
+  const requiredCount = stepNodes.length;
+  const completedSteps = stepNodes.filter((step) => {
+    const input = step.querySelector('[data-step-complete]');
+    return input && input.checked;
+  }).length;
+  const percent = requiredCount ? Math.round(completedSteps / requiredCount * 100) : 0;
+  const bar = progress.querySelector('[data-course-progress-bar]');
+  bar.value = percent;
+  bar.textContent = `${percent}%`;
+  progress.querySelector('[data-course-progress-label]').textContent = `${completedActivities} de ${activityCount} actividades completas`;
+  progress.querySelector('[data-current-activity]').textContent = `Actividad actual: ${document.querySelector('.page-hero h1')?.textContent || ''} · ${percent}% de pasos esenciales completados`;
+};
+
+document.querySelectorAll('[data-step-complete]').forEach((checkbox) => checkbox.addEventListener('change', updateCourseProgress));
+updateCourseProgress();
+
+document.querySelectorAll('[data-learning-check]').forEach((check) => {
+  const button = check.querySelector('[data-check-answer]');
+  const feedback = check.querySelector('.learning-check-feedback');
+  button.addEventListener('click', () => {
+    const selected = check.querySelector('input[type="radio"]:checked');
+    if (!selected) {
+      feedback.textContent = 'Elija una opción para comprobar su respuesta.';
+      return;
+    }
+    if (selected.value === button.dataset.checkAnswer) {
+      feedback.textContent = `Correcto. ${button.dataset.feedback}`;
+      feedback.classList.add('is-correct');
+    } else {
+      feedback.textContent = 'Esa opción no es la más adecuada. Revise las opciones e inténtelo de nuevo.';
+      feedback.classList.remove('is-correct');
+    }
+  });
+});
+
 document.querySelectorAll('[data-reflection-answer]').forEach((field) => {
   const reflectionKey = field.dataset.reflectionAnswer;
   const reflections = savedExercise.reflections || {};
@@ -58,6 +115,7 @@ document.addEventListener('click', async (event) => {
     document.querySelectorAll('.reflection-status').forEach((status) => {
       status.textContent = 'Progreso y respuestas borrados para esta actividad.';
     });
+    updateCourseProgress();
     return;
   }
 

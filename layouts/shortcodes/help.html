@@ -1,0 +1,4 @@
+<details class="exercise-help">
+  <summary>{{ .Get "label" | default "¿No te funcionó?" }}</summary>
+  <div class="exercise-help-content">{{ .Inner | markdownify }}</div>
+</details>

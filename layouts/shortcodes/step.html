@@ -1,7 +1,7 @@
-<section class="guided-step" data-step="{{ .Get "number" }}">
+<section class="guided-step{{ if eq (.Get "optional") "true" }} is-optional{{ end }}" data-step="{{ .Get "number" }}" data-optional="{{ .Get "optional" | default "false" }}">
   <div class="guided-step-heading">
     <span class="guided-step-number" aria-hidden="true">{{ .Get "number" }}</span>
-    <h2>{{ .Get "title" }}</h2>
+    <h2>{{ .Get "title" }}{{ if eq (.Get "optional") "true" }} <span class="optional-badge">Opcional</span>{{ end }}</h2>
   </div>
   <div class="guided-step-content">{{ .Inner | markdownify }}</div>
   <label class="step-complete"><input type="checkbox" data-step-complete="{{ .Get "number" }}"> <span>Marcar este paso como realizado</span></label>
