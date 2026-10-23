@@ -17,12 +17,12 @@ Lo más importante es que todas las personas puedan entrar a la herramienta eleg
 ## Dos días antes
 
 - Confirmar que cada asistente puede entrar; ayudar a quien lo necesite o asignarle una pareja.
-- Pedir que traigan computador cargado, Excel y Word, y una tarea de la semana sin datos sensibles para el ejercicio 11.
+- Pedir que traigan computador cargado, Excel y Word, y una tarea de la semana sin datos sensibles para el ejercicio 12.
 - Probar la conexión Wi-Fi con el grupo previsto.
 
 ## El día del taller
 
-Llegar 45 minutos antes. Distribuir los siete archivos de práctica, tener el cuaderno disponible, preparar herramienta y proyector y ensayar las demostraciones de correo, Excel y PDF.
+Llegar 45 minutos antes. Compartir con anticipación el enlace a los [archivos de práctica]({{< relref "recursos" >}}), confirmar que cada participante pueda abrir la herramienta de IA y preparar proyector y videoconferencia. Ensayar las demostraciones de apertura, correo, Excel, PDF y cierre cotidiano. Para el cierre, use ejemplos ficticios y aclare que compartir resultados es voluntario. La captura ficticia de error está disponible como apoyo opcional en [08 · Captura de error de Excel (PNG)](/recursos/ia-logistica-comercio-internacional/fundamentos/ejercicios/08_pantalla_error_excel.png).
 
 ## Si algo falla
 

@@ -1,15 +1,11 @@
 ---
-title: "Cuaderno y archivos de práctica"
-description: "Descargue el cuaderno del participante y los siete archivos públicos del taller."
+title: "Archivos de práctica"
+description: "Descargue los archivos de ejemplo usados en las actividades interactivas del taller."
 weight: 130
 kicker: "Materiales del taller"
 ---
 
-Los datos de los ejercicios se prepararon para práctica. No use estos archivos como documentos comerciales reales.
-
-## Cuaderno del participante
-
-- [Descargar cuaderno del participante (PDF)](/recursos/ia-logistica-comercio-internacional/fundamentos/cuaderno/cuaderno-participante.pdf)
+Los datos de los ejercicios se prepararon para práctica. No use estos archivos como documentos comerciales reales. Las instrucciones y respuestas de reflexión están integradas en cada actividad del curso.
 
 ## Archivos de práctica
 
@@ -20,5 +16,6 @@ Los datos de los ejercicios se prepararon para práctica. No use estos archivos 
 - [05 · Contrato de servicios (Word)](/recursos/ia-logistica-comercio-internacional/fundamentos/ejercicios/05_contrato_servicios.docx) — ejercicio 6.
 - [06 · Factura comercial (PDF)](/recursos/ia-logistica-comercio-internacional/fundamentos/ejercicios/06_factura_comercial.pdf) — ejercicios 9 y 10.
 - [07 · Packing list (PDF)](/recursos/ia-logistica-comercio-internacional/fundamentos/ejercicios/07_packing_list.pdf) — ejercicios 9 y 10.
+- [08 · Captura ficticia de error de Excel (PNG)](/recursos/ia-logistica-comercio-internacional/fundamentos/ejercicios/08_pantalla_error_excel.png) — ejercicio 13, opcional.
 
 Los archivos `CLAVE_instructor_*` son material privado del instructor y no se publican aquí.

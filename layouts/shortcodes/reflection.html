@@ -1,0 +1,9 @@
+<section class="reflection-box" data-reflection>
+  <h2>{{ .Get "title" }}</h2>
+  <label for="{{ .Ordinal }}-reflection-answer">{{ .Inner | markdownify }}</label>
+  <textarea id="{{ .Ordinal }}-reflection-answer" data-reflection-answer="{{ .Ordinal }}" rows="4" placeholder="Escribe aquí tus ideas. Se guardan en este navegador."></textarea>
+  <div class="reflection-footer">
+    <span class="reflection-status" aria-live="polite">Tus respuestas se guardan en este navegador.</span>
+    <div class="reflection-actions"><button class="clear-reflection" type="button" data-clear-reflection>Borrar respuesta</button><button class="clear-reflection" type="button" data-clear-progress>Borrar progreso de esta actividad</button></div>
+  </div>
+</section>

@@ -10,6 +10,6 @@ Capacitación presencial para equipos empresariales. El contenido publicado corr
 
 | Nivel | Estado | Contenido |
 |---|---|---|
-| Fundamentos | Disponible | Material de la edición INTRO: preparación, conceptos y 12 ejercicios prácticos. |
+| Fundamentos | Disponible | Material de la edición INTRO: preparación, apertura sobre IA, 14 ejercicios (0–13) y cierre de uso cotidiano. |
 | Intermedio | Próximamente | Temario en preparación. |
 | Avanzado | Próximamente | Temario en preparación. |
