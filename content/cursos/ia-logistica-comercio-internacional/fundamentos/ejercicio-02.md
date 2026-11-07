@@ -45,8 +45,32 @@ Hazlo más corto y agrega que estamos buscando opciones para recuperar tiempo.
 
 {{< check question="¿Qué suele ayudar a obtener una respuesta más útil?" options="Dar contexto, tarea y formato esperado|Escribir solo ‘ayúdame’|Aceptar la primera respuesta sin revisarla" answer="0" feedback="El contexto, una tarea clara y el formato esperado orientan la respuesta; después conviene revisarla." >}}
 
-{{< reflection title="Comparen y registren lo aprendido" >}}
-¿Cuál correo revisarían menos antes de usarlo? ¿Qué información le faltó al pedido A? ¿El seguimiento cambió algo que debía conservarse?
-{{< /reflection >}}
+{{< step number="4" title="Cómo hacer una buena pregunta o prompt" >}}
+Para crear un buen prompt, piensa en la IA como en un compañero de trabajo inteligente pero que no te conoce. Si eres vago, el resultado será flojo. Si eres específico, el resultado será excelente.
+
+Un buen prompt solo necesita 3 elementos esenciales:
+
+- **La Tarea:** Qué quieres que haga (usa verbos claros como escribe, resume, calcula, traduce).
+- **El Contexto:** Dale los detalles de la situación para que no tenga que adivinar.
+- **El Formato:** Dile cómo quieres que te entregue la respuesta (en una lista, un correo corto, una tabla).
+
+### El supertruco de la diferencia
+
+Primero copia y envía este prompt. Observa el resultado: ¿qué detalles eligió la IA por su cuenta?
+
+{{< prompt >}}
+Haz una rutina de ejercicio.
+{{< /prompt >}}
+
+Ahora copia y envía este prompt más específico. Fíjate en cómo el contexto y el formato orientan la respuesta:
+
+{{< prompt >}}
+Soy un principiante que quiere entrenar en casa sin equipo. Hazme una rutina de ejercicio de 20 minutos explicada en 3 pasos sencillos.
+{{< /prompt >}}
+
+Compara las dos respuestas. ¿Cuál se ajusta mejor a lo que necesitas? ¿Qué información hizo la diferencia?
+
+¿Qué te gustaría que la IA haga por ti hoy? Dime tu idea y yo te escribo el prompt exacto que debes copiar y pegar.
+{{< /step >}}
 
 La IA no conoce los detalles de su oficina si no se los cuentan. Revisen fechas, compromisos y tono antes de usar cualquier borrador.
