@@ -16,6 +16,7 @@ Los datos de los ejercicios se prepararon para práctica. No use estos archivos 
 - [05 · Contrato de servicios (Word)](/recursos/ia-logistica-comercio-internacional/fundamentos/ejercicios/05_contrato_servicios.docx) — ejercicio 7.
 - [06 · Factura comercial (PDF)](/recursos/ia-logistica-comercio-internacional/fundamentos/ejercicios/06_factura_comercial.pdf) — ejercicios 10 y 11.
 - [07 · Packing list (PDF)](/recursos/ia-logistica-comercio-internacional/fundamentos/ejercicios/07_packing_list.pdf) — ejercicios 10 y 11.
-- [08 · Captura ficticia de error de Excel (PNG)](/recursos/ia-logistica-comercio-internacional/fundamentos/ejercicios/08_pantalla_error_excel.png) — ejercicio 13, opcional.
+- [08 · Captura ficticia de error de Excel (PNG)](/recursos/ia-logistica-comercio-internacional/fundamentos/ejercicios/08_pantalla_error_excel.png) — ejercicio 14, opcional.
+- [09 · Ficha técnica de repuesto (PDF)](/recursos/ia-logistica-comercio-internacional/fundamentos/ejercicios/09_ficha_tecnica_repuesto.pdf) — ejercicio 12, cuaderno de Gemini.
 
 Los archivos `CLAVE_instructor_*` son material privado del instructor y no se publican aquí.

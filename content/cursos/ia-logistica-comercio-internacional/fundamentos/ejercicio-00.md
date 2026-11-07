@@ -39,8 +39,4 @@ Mañana tengo que hacer mercado, preparar almuerzo para cuatro personas y recoge
 {{< /prompt >}}
 {{< /step >}}
 
-{{< reflection title="Cierre de la introducción" >}}
-¿Qué hizo mejor la segunda petición? ¿Qué dato no debería inventar la IA? ¿Qué le pedirían que explicara otra vez?
-{{< /reflection >}}
-
 No escriba contraseñas, documentos de identidad ni datos privados de clientes o familiares. Continúe con el ejercicio 1.

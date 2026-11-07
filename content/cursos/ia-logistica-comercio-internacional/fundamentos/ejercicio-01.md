@@ -9,8 +9,8 @@ kicker: "Correos y primeros pasos · 5 min"
 
 {{< objective >}}entrar a la herramienta y empezar a conversar con una tarea sencilla de oficina.{{< /objective >}}
 
-{{< step number="1" title="Abra la herramienta de IA" >}}
-Inicie sesión en la herramienta indicada por el instructor. Si alguien no logra entrar, avise para recibir ayuda o trabajar en pareja.
+{{< step number="1" title="Inicie un nuevo chat o nueva conversación" >}}
+En la herramienta, arriba panel izquierdo, busque la opción "Nuevo chat" o "Nueva conversación" y selecciónela (click). Si alguien no logra encontrarla, avise para recibir ayuda o trabajar en pareja.
 {{< /step >}}
 
 {{< step number="2" title="Inicie una conversación de trabajo" >}}

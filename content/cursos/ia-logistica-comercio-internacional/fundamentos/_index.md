@@ -28,7 +28,7 @@ El taller comienza con una conversación accesible sobre qué puede hacer la IA 
 - **Modalidad:** presencial para empresas.
 - **Público:** asistentes y personal administrativo de logística y comercio internacional, sin experiencia técnica.
 - **Metodología:** 20 % explicación y 80 % práctica.
-- **Práctica:** 14 ejercicios, numerados del 0 al 13; el ejercicio 0 introduce la IA y el 13 permite practicar con una tarea cotidiana.
+- **Práctica:** 15 ejercicios, numerados del 0 al 14; el ejercicio 0 introduce la IA, el 13 practica cuadernos en Gemini y el 14 cierra con una tarea cotidiana.
 - **Herramienta:** el material propone Claude gratuito. Los prompts se pueden adaptar a ChatGPT, Gemini o Copilot; la carga de archivos y los límites dependen de cada herramienta.
 
 ## Al terminar
@@ -39,8 +39,8 @@ Al finalizar, cada asistente habrá conversado sobre dudas frecuentes de IA; pra
 
 ## Antes de empezar
 
-Revise la [preparación previa]({{< relref "preparacion" >}}). Durante el taller, siga cada actividad aquí en la web. El progreso y las respuestas se guardan en este navegador; si utiliza un computador compartido, puede borrar sus respuestas al terminar. Descargue los [archivos de práctica]({{< relref "recursos" >}}) cuando una actividad los indique.
+Antes del taller, siga la guía [Prepara tu cuenta de IA: Google Gemini]({{< relref "gemini" >}}) para entrar y probar una tarea sencilla. También puede consultar la [preparación previa]({{< relref "preparacion" >}}). Durante el taller, siga cada actividad aquí en la web. El progreso y las respuestas se guardan en este navegador; si utiliza un computador compartido, puede borrar sus respuestas al terminar. Descargue los [archivos de práctica]({{< relref "recursos" >}}) cuando una actividad los indique.
 
 ## Ejercicios prácticos
 
-Las 14 actividades están agrupadas por tema. Para el taller guiado, comience por la introducción y avance con el enlace **Siguiente** al final de cada actividad. También puede volver a cualquier actividad desde el índice lateral.
+Las 15 actividades están agrupadas por tema. Antes de empezar, puede preparar su acceso a Gemini; luego comience por la introducción (Ejercicio 00) y avance con el enlace **Siguiente** al final de cada actividad. También puede volver a cualquier actividad desde el índice lateral.

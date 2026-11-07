@@ -1,49 +1,85 @@
 ---
-title: "Una tarea cotidiana para mí"
-description: "Probar una tarea general de aprendizaje, organización o escritura con ayuda de IA."
+title: "Mi primer cuaderno en Gemini"
+description: "Crear un cuaderno en Gemini y consultar un documento PDF de logística."
 weight: 130
 exercise: 13
-group: "Cierre y uso cotidiano"
-kicker: "Cierre y uso cotidiano · 20 min"
+group: "Práctica final"
+kicker: "Práctica con Gemini · 15–20 min"
 ---
 
-{{< objective >}}aplicar lo practicado a una tarea cotidiana y reconocer qué debe revisar la persona.{{< /objective >}}
+{{< objective >}}crear un cuaderno en Gemini, agregar un PDF y usarlo para consultar información, extraer datos y redactar un correo.{{< /objective >}}
 
-Los ejemplos son ficticios. Elija una actividad que le interese; no hace falta compartir información personal ni mostrar su resultado al grupo.
+**Duración:** 15–20 minutos. **Objetivo:** crear un cuaderno en Gemini, agregar un PDF y usarlo para consultar información, extraer datos y redactar un correo.
 
-{{< step number="1" title="Exploren una posibilidad" >}}
-
-Elija una opción o proponga otra: aprender un tema, practicar inglés, organizar una lista de compras, planear una rutina, redactar una invitación o entender un mensaje de error. Por ejemplo, para aprender:
-
-{{< prompt >}}
-Actúa como profesor paciente. Explícame las fracciones usando una pizza. Luego hazme tres preguntas, una por una, y espera mi respuesta antes de corregirme.
-{{< /prompt >}}
-
-Para pedir otro ejemplo, continúe: «Explícamelo más fácil» o «Dame otro ejemplo».
-
-También puede explorar un error ficticio con la [captura de pantalla de apoyo](/recursos/ia-logistica-comercio-internacional/fundamentos/ejercicios/08_pantalla_error_excel.png), si su herramienta admite imágenes:
-
-{{< prompt >}}
-Mira esta captura de pantalla. ¿Qué significa el error? Explícamelo sin palabras técnicas y dime tres pasos para revisarlo. No supongas que puedes ver mi archivo de Excel.
-{{< /prompt >}}
-
-La captura es simulada. Sin ver la fórmula y las celdas, la IA no puede saber cuál es la causa concreta.
+{{< step number="1" title="Conozcan qué es un cuaderno" >}}
+Imagina una carpeta donde guardas los documentos importantes de un embarque. Un cuaderno de Gemini es como una carpeta inteligente: puedes agregar documentos y hacer preguntas sobre ellos, sin tener que explicar nuevamente todo el contexto.
 {{< /step >}}
 
-{{< step number="2" title="Prueben una tarea propia" >}}
+{{< step number="2" title="Creen un cuaderno en Gemini" >}}
+1. Abre [Google Gemini](https://gemini.google.com/).
+2. En la barra lateral, busca **Cuadernos**.
+3. Selecciona **Nuevo cuaderno**.
+4. Ponle el nombre **Importación de repuestos para camiones** y ábrelo.
 
-Complete el mensaje con una actividad general. Puede usar una situación inventada o un contexto sin datos privados:
+Esta actividad usa los cuadernos integrados en Gemini. No necesitas abrir NotebookLM ni contratar una suscripción.
+{{< /step >}}
+
+{{< step number="3" title="Descarguen y agreguen el PDF" >}}
+Descarga la [Ficha técnica de repuesto (PDF)](/recursos/ia-logistica-comercio-internacional/fundamentos/ejercicios/09_ficha_tecnica_repuesto.pdf). Es un ejemplo ficticio de un filtro de aceite para camiones, modelo **GFT-8940-HD**.
+
+En el cuaderno, selecciona la opción para agregar fuentes y sube el PDF. Confirma que el documento aparece entre las fuentes del cuaderno antes de continuar.
+
+No subas documentos confidenciales de tu empresa, clientes o proveedores sin autorización.
+{{< /step >}}
+
+{{< step number="4" title="Conversen con el documento" >}}
+Prueba cada solicitud en el cuaderno. Los botones permiten copiar los prompts:
+
+**A. Extraer información**
 
 {{< prompt >}}
-Quiero ayuda con [actividad]. Mi situación es [contexto sin datos privados]. Dame [lista, tabla, explicación o pasos]. Usa lenguaje sencillo. Si necesitas información, hazme hasta dos preguntas antes de responder.
+Según el documento que he subido, identifica el nombre del producto, su número de parte, fabricante y dimensiones. Presenta los resultados en una tabla. Utiliza únicamente la información del PDF.
+{{< /prompt >}}
+
+**B. Preparar una descripción aduanera**
+
+{{< prompt >}}
+Redacta una descripción técnica y comercial de este producto para ayudarme a preparar una consulta de clasificación arancelaria en Ecuador. Utiliza únicamente los datos del documento y señala la información que falte. No asignes una subpartida arancelaria definitiva.
+{{< /prompt >}}
+
+**C. Redactar un correo**
+
+{{< prompt >}}
+Redacta un correo breve y profesional dirigido a un agente de aduanas, incluyendo las características principales del producto, para solicitar la revisión de su ficha técnica antes de preparar los documentos de transporte.
+{{< /prompt >}}
+
+**D. Identificar información faltante**
+
+{{< prompt >}}
+¿Cuál es el precio de venta en dólares de este filtro? Responde utilizando únicamente el documento. Si no aparece el precio, indícalo claramente.
 {{< /prompt >}}
 {{< /step >}}
 
-{{< step number="3" title="Cierren con una revisión" >}}
+{{< step number="5" title="Verifiquen las respuestas con el PDF" >}}
+Compara la respuesta de la actividad A con el documento original. Estos son los datos esperados:
 
-Revise: ¿la respuesta se ajustó a lo que pidió?, ¿qué corregiría?, ¿qué dato debería comprobar por fuera de la IA? La IA ayuda a trabajar, aprender, crear y organizarse; usted mantiene el criterio y la decisión.
+| Dato | Valor |
+|---|---|
+| Número de parte | GFT-8940-HD |
+| Diámetro exterior | 118 mm |
+| Altura | 248 mm |
+| Rosca | M36 × 1.5 |
+| Fabricante | Global Filtration Technologies Corp. |
+
+La IA puede cometer errores, aunque su respuesta parezca segura. Comprueba los datos importantes directamente en el PDF. Para la actividad D, el documento no indica un precio de venta.
 {{< /step >}}
 
-{{< reflection title="Cierre del taller" >}}
-¿Qué uso probaré después del taller? ¿Qué comprobaré por fuera de la IA antes de confiar en una respuesta?
-{{< /reflection >}}
+{{< step number="6" title="Comprueben lo aprendido" >}}
+- [ ] Creé mi primer cuaderno en Gemini.
+- [ ] Agregué un documento PDF.
+- [ ] Extraje información técnica del documento.
+- [ ] Redacté un correo utilizando la información del PDF.
+- [ ] Comprobé cómo responde Gemini cuando falta información.
+
+¡Excelente! Ahora sabes cómo utilizar un cuaderno de Gemini para organizar documentos y trabajar con su información.
+{{< /step >}}
