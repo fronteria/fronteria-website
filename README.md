@@ -2,6 +2,8 @@
 FronterIA Website created using 'hugo' tool
 
 ## LOG
+23/Nov/2026: Added consultoria, hidden courses
+
 06/Nov/07: Added gemini session.
 
 23/Oct/26: Refactored Cursos Interaction - Full 

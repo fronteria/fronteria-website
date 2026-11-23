@@ -14,6 +14,11 @@ title = "FronterIA Software"
 		url = "/productos/"
 		weight = 10
 	[[menu.main]]
+		identifier = "consultoria"
+		name = "Consultoría"
+		url = "/consultoria/"
+		weight = 15
+	[[menu.main]]
 		identifier = "acercade"
 		name = "Acerca de"
 		url = "/acercade/"
@@ -28,11 +33,6 @@ title = "FronterIA Software"
 		name = "Recursos"
 		url = "/recursos/"
 		weight = 30
-	[[menu.main]]
-		identifier = "cursos"
-		name = "Capacitación en IA"
-		url = "/cursos/"
-		weight = 25
 
 [security]
   allowContent = ['^text/markdown$', '^text/html$']
